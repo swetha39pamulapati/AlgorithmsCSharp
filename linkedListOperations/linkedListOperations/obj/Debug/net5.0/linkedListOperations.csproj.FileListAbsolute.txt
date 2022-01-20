@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\bin\Debug\net5.0\linkedListOperations.exe
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\bin\Debug\net5.0\linkedListOperations.deps.json
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\bin\Debug\net5.0\linkedListOperations.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\bin\Debug\net5.0\linkedListOperations.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\bin\Debug\net5.0\linkedListOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\bin\Debug\net5.0\ref\linkedListOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\bin\Debug\net5.0\linkedListOperations.pdb
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\ref\linkedListOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.pdb
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.genruntimeconfig.cache
+C:\Users\padma\AlgandDataStructuresC#\linkedListOperations\linkedListOperations\obj\Debug\net5.0\linkedListOperations.csproj.AssemblyReference.cache

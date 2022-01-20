@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\bin\Debug\net5.0\CycleUndirecBFSGraph.exe
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\bin\Debug\net5.0\CycleUndirecBFSGraph.deps.json
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\bin\Debug\net5.0\CycleUndirecBFSGraph.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\bin\Debug\net5.0\CycleUndirecBFSGraph.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\bin\Debug\net5.0\CycleUndirecBFSGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\bin\Debug\net5.0\ref\CycleUndirecBFSGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\bin\Debug\net5.0\CycleUndirecBFSGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\ref\CycleUndirecBFSGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\CycleUndirecBFSGraph\CycleUndirecBFSGraph\obj\Debug\net5.0\CycleUndirecBFSGraph.genruntimeconfig.cache

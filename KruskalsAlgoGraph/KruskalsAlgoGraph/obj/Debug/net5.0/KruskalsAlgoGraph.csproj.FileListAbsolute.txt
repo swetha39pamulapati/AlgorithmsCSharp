@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\bin\Debug\net5.0\KruskalsAlgoGraph.exe
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\bin\Debug\net5.0\KruskalsAlgoGraph.deps.json
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\bin\Debug\net5.0\KruskalsAlgoGraph.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\bin\Debug\net5.0\KruskalsAlgoGraph.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\bin\Debug\net5.0\KruskalsAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\bin\Debug\net5.0\ref\KruskalsAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\bin\Debug\net5.0\KruskalsAlgoGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\ref\KruskalsAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\KruskalsAlgoGraph\KruskalsAlgoGraph\obj\Debug\net5.0\KruskalsAlgoGraph.genruntimeconfig.cache

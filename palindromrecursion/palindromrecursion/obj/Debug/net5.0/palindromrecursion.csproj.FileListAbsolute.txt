@@ -1,0 +1,15 @@
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\bin\Debug\net5.0\palindromrecursion.exe
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\bin\Debug\net5.0\palindromrecursion.deps.json
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\bin\Debug\net5.0\palindromrecursion.runtimeconfig.json
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\bin\Debug\net5.0\palindromrecursion.runtimeconfig.dev.json
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\bin\Debug\net5.0\palindromrecursion.dll
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\bin\Debug\net5.0\ref\palindromrecursion.dll
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\bin\Debug\net5.0\palindromrecursion.pdb
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\palindromrecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\palindromrecursion.AssemblyInfoInputs.cache
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\palindromrecursion.AssemblyInfo.cs
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\palindromrecursion.csproj.CoreCompileInputs.cache
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\palindromrecursion.dll
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\ref\palindromrecursion.dll
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\palindromrecursion.pdb
+C:\Users\padma\source\repos\palindromrecursion\palindromrecursion\obj\Debug\net5.0\palindromrecursion.genruntimeconfig.cache

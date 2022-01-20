@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\bin\Debug\net5.0\BinaryTreePostPreTraversal.exe
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\bin\Debug\net5.0\BinaryTreePostPreTraversal.deps.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\bin\Debug\net5.0\BinaryTreePostPreTraversal.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\bin\Debug\net5.0\BinaryTreePostPreTraversal.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\bin\Debug\net5.0\BinaryTreePostPreTraversal.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\bin\Debug\net5.0\ref\BinaryTreePostPreTraversal.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\bin\Debug\net5.0\BinaryTreePostPreTraversal.pdb
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\ref\BinaryTreePostPreTraversal.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.pdb
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreePostPreTraversal\BinaryTreePostPreTraversal\obj\Debug\net5.0\BinaryTreePostPreTraversal.genruntimeconfig.cache

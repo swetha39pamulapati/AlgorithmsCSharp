@@ -1,0 +1,15 @@
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\bin\Debug\net5.0\detectCycleDirectGraphBFS.exe
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\bin\Debug\net5.0\detectCycleDirectGraphBFS.deps.json
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\bin\Debug\net5.0\detectCycleDirectGraphBFS.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\bin\Debug\net5.0\detectCycleDirectGraphBFS.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\bin\Debug\net5.0\detectCycleDirectGraphBFS.dll
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\bin\Debug\net5.0\ref\detectCycleDirectGraphBFS.dll
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\bin\Debug\net5.0\detectCycleDirectGraphBFS.pdb
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\detectCycleDirectGraphBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\detectCycleDirectGraphBFS.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\detectCycleDirectGraphBFS.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\detectCycleDirectGraphBFS.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\detectCycleDirectGraphBFS.dll
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\ref\detectCycleDirectGraphBFS.dll
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\detectCycleDirectGraphBFS.pdb
+C:\Users\padma\AlgandDataStructuresC#\detectCycleDirectGraphBFS\detectCycleDirectGraphBFS\obj\Debug\net5.0\detectCycleDirectGraphBFS.genruntimeconfig.cache

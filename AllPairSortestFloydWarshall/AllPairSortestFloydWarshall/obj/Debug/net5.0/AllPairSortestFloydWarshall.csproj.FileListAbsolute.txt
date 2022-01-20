@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\bin\Debug\net5.0\AllPairSortestFloydWarshall.exe
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\bin\Debug\net5.0\AllPairSortestFloydWarshall.deps.json
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\bin\Debug\net5.0\AllPairSortestFloydWarshall.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\bin\Debug\net5.0\AllPairSortestFloydWarshall.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\bin\Debug\net5.0\AllPairSortestFloydWarshall.dll
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\bin\Debug\net5.0\ref\AllPairSortestFloydWarshall.dll
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\bin\Debug\net5.0\AllPairSortestFloydWarshall.pdb
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.dll
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\ref\AllPairSortestFloydWarshall.dll
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.pdb
+C:\Users\padma\AlgandDataStructuresC#\AllPairSortestFloydWarshall\AllPairSortestFloydWarshall\obj\Debug\net5.0\AllPairSortestFloydWarshall.genruntimeconfig.cache

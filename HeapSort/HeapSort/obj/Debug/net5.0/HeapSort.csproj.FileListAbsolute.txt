@@ -1,0 +1,15 @@
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\bin\Debug\net5.0\HeapSort.exe
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\bin\Debug\net5.0\HeapSort.deps.json
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\bin\Debug\net5.0\HeapSort.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\bin\Debug\net5.0\HeapSort.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\bin\Debug\net5.0\HeapSort.dll
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\bin\Debug\net5.0\ref\HeapSort.dll
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\bin\Debug\net5.0\HeapSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\HeapSort.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\HeapSort.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\HeapSort.dll
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\ref\HeapSort.dll
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\HeapSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\HeapSort\HeapSort\obj\Debug\net5.0\HeapSort.genruntimeconfig.cache

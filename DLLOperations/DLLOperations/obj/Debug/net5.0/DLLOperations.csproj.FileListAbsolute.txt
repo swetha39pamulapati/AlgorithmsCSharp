@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\bin\Debug\net5.0\DLLOperations.exe
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\bin\Debug\net5.0\DLLOperations.deps.json
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\bin\Debug\net5.0\DLLOperations.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\bin\Debug\net5.0\DLLOperations.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\bin\Debug\net5.0\DLLOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\bin\Debug\net5.0\ref\DLLOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\bin\Debug\net5.0\DLLOperations.pdb
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\ref\DLLOperations.dll
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.pdb
+C:\Users\padma\AlgandDataStructuresC#\DLLOperations\DLLOperations\obj\Debug\net5.0\DLLOperations.genruntimeconfig.cache

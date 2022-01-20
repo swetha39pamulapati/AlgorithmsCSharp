@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\bin\Debug\net5.0\LetterCombPhoneNum.exe
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\bin\Debug\net5.0\LetterCombPhoneNum.deps.json
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\bin\Debug\net5.0\LetterCombPhoneNum.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\bin\Debug\net5.0\LetterCombPhoneNum.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\bin\Debug\net5.0\LetterCombPhoneNum.dll
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\bin\Debug\net5.0\ref\LetterCombPhoneNum.dll
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\bin\Debug\net5.0\LetterCombPhoneNum.pdb
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.dll
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\ref\LetterCombPhoneNum.dll
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.pdb
+C:\Users\padma\AlgandDataStructuresC#\LetterCombPhoneNum\LetterCombPhoneNum\obj\Debug\net5.0\LetterCombPhoneNum.genruntimeconfig.cache

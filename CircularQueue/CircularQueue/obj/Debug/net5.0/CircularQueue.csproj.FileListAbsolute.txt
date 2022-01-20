@@ -1,0 +1,15 @@
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\bin\Debug\net5.0\CircularQueue.exe
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\bin\Debug\net5.0\CircularQueue.deps.json
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\bin\Debug\net5.0\CircularQueue.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\bin\Debug\net5.0\CircularQueue.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\bin\Debug\net5.0\CircularQueue.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\bin\Debug\net5.0\ref\CircularQueue.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\bin\Debug\net5.0\CircularQueue.pdb
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\CircularQueue.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\CircularQueue.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\CircularQueue.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\ref\CircularQueue.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\CircularQueue.pdb
+C:\Users\padma\AlgandDataStructuresC#\CircularQueue\CircularQueue\obj\Debug\net5.0\CircularQueue.genruntimeconfig.cache

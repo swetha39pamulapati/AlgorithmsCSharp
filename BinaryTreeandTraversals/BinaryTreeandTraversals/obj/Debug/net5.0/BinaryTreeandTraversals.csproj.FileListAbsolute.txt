@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\bin\Debug\net5.0\BinaryTreeandTraversals.exe
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\bin\Debug\net5.0\BinaryTreeandTraversals.deps.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\bin\Debug\net5.0\BinaryTreeandTraversals.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\bin\Debug\net5.0\BinaryTreeandTraversals.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\bin\Debug\net5.0\BinaryTreeandTraversals.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\bin\Debug\net5.0\ref\BinaryTreeandTraversals.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\bin\Debug\net5.0\BinaryTreeandTraversals.pdb
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\ref\BinaryTreeandTraversals.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.pdb
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeandTraversals\BinaryTreeandTraversals\obj\Debug\net5.0\BinaryTreeandTraversals.genruntimeconfig.cache

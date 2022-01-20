@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Add2numbLinkedList/1.0.0": {
+        "runtime": {
+          "Add2numbLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Add2numbLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

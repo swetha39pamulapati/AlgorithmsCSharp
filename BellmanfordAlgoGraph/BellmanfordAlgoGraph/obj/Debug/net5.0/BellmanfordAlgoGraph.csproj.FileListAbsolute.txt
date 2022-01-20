@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\bin\Debug\net5.0\BellmanfordAlgoGraph.exe
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\bin\Debug\net5.0\BellmanfordAlgoGraph.deps.json
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\bin\Debug\net5.0\BellmanfordAlgoGraph.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\bin\Debug\net5.0\BellmanfordAlgoGraph.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\bin\Debug\net5.0\BellmanfordAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\bin\Debug\net5.0\ref\BellmanfordAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\bin\Debug\net5.0\BellmanfordAlgoGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\ref\BellmanfordAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\BellmanfordAlgoGraph\BellmanfordAlgoGraph\obj\Debug\net5.0\BellmanfordAlgoGraph.genruntimeconfig.cache

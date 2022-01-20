@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "depth1stSearchGrapgh/1.0.0": {
+        "runtime": {
+          "depth1stSearchGrapgh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "depth1stSearchGrapgh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

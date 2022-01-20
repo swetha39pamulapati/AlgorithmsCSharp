@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\bin\Debug\net5.0\QueueUsingStack.exe
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\bin\Debug\net5.0\QueueUsingStack.deps.json
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\bin\Debug\net5.0\QueueUsingStack.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\bin\Debug\net5.0\QueueUsingStack.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\bin\Debug\net5.0\QueueUsingStack.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\bin\Debug\net5.0\ref\QueueUsingStack.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\bin\Debug\net5.0\QueueUsingStack.pdb
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\ref\QueueUsingStack.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.pdb
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingStack\QueueUsingStack\obj\Debug\net5.0\QueueUsingStack.genruntimeconfig.cache

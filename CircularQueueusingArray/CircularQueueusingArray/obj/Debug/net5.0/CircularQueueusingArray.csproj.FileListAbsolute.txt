@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\bin\Debug\net5.0\CircularQueueusingArray.exe
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\bin\Debug\net5.0\CircularQueueusingArray.deps.json
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\bin\Debug\net5.0\CircularQueueusingArray.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\bin\Debug\net5.0\CircularQueueusingArray.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\bin\Debug\net5.0\CircularQueueusingArray.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\bin\Debug\net5.0\ref\CircularQueueusingArray.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\bin\Debug\net5.0\CircularQueueusingArray.pdb
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\ref\CircularQueueusingArray.dll
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.pdb
+C:\Users\padma\AlgandDataStructuresC#\CircularQueueusingArray\CircularQueueusingArray\obj\Debug\net5.0\CircularQueueusingArray.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Knapsack01Approach/1.0.0": {
+        "runtime": {
+          "Knapsack01Approach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Knapsack01Approach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

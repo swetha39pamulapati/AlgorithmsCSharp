@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\bin\Debug\net5.0\TopologicalSortGraph.exe
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\bin\Debug\net5.0\TopologicalSortGraph.deps.json
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\bin\Debug\net5.0\TopologicalSortGraph.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\bin\Debug\net5.0\TopologicalSortGraph.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\bin\Debug\net5.0\TopologicalSortGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\bin\Debug\net5.0\ref\TopologicalSortGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\bin\Debug\net5.0\TopologicalSortGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\ref\TopologicalSortGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\TopologicalSortGraph\TopologicalSortGraph\obj\Debug\net5.0\TopologicalSortGraph.genruntimeconfig.cache

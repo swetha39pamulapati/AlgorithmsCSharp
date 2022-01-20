@@ -1,0 +1,15 @@
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\bin\Debug\net5.0\ReverseInteger.exe
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\bin\Debug\net5.0\ReverseInteger.deps.json
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\bin\Debug\net5.0\ReverseInteger.runtimeconfig.json
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\bin\Debug\net5.0\ReverseInteger.runtimeconfig.dev.json
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\bin\Debug\net5.0\ReverseInteger.dll
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\bin\Debug\net5.0\ref\ReverseInteger.dll
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\bin\Debug\net5.0\ReverseInteger.pdb
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ReverseInteger.AssemblyInfo.cs
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ReverseInteger.dll
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ref\ReverseInteger.dll
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ReverseInteger.pdb
+C:\Users\padma\source\repos\ReverseInteger\ReverseInteger\obj\Debug\net5.0\ReverseInteger.genruntimeconfig.cache

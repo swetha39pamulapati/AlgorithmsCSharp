@@ -1,0 +1,15 @@
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\bin\Debug\net5.0\ReverseArray.exe
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\bin\Debug\net5.0\ReverseArray.deps.json
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\bin\Debug\net5.0\ReverseArray.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\bin\Debug\net5.0\ReverseArray.dll
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\bin\Debug\net5.0\ref\ReverseArray.dll
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\bin\Debug\net5.0\ReverseArray.pdb
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ReverseArray.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ReverseArray.dll
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ref\ReverseArray.dll
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ReverseArray.pdb
+C:\Users\padma\AlgandDataStructuresC#\ReverseArray\ReverseArray\obj\Debug\net5.0\ReverseArray.genruntimeconfig.cache

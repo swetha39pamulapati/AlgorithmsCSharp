@@ -1,0 +1,16 @@
+C:\Users\padma\source\repos\Leapyear\Leapyear\bin\Debug\net5.0\Leapyear.exe
+C:\Users\padma\source\repos\Leapyear\Leapyear\bin\Debug\net5.0\Leapyear.deps.json
+C:\Users\padma\source\repos\Leapyear\Leapyear\bin\Debug\net5.0\Leapyear.runtimeconfig.json
+C:\Users\padma\source\repos\Leapyear\Leapyear\bin\Debug\net5.0\Leapyear.runtimeconfig.dev.json
+C:\Users\padma\source\repos\Leapyear\Leapyear\bin\Debug\net5.0\Leapyear.dll
+C:\Users\padma\source\repos\Leapyear\Leapyear\bin\Debug\net5.0\ref\Leapyear.dll
+C:\Users\padma\source\repos\Leapyear\Leapyear\bin\Debug\net5.0\Leapyear.pdb
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.csproj.AssemblyReference.cache
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.AssemblyInfoInputs.cache
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.AssemblyInfo.cs
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.csproj.CoreCompileInputs.cache
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.dll
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\ref\Leapyear.dll
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.pdb
+C:\Users\padma\source\repos\Leapyear\Leapyear\obj\Debug\net5.0\Leapyear.genruntimeconfig.cache

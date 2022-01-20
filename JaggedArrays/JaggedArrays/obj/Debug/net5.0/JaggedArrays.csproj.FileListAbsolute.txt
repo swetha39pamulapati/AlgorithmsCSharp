@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.exe
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.deps.json
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\bin\Debug\net5.0\ref\JaggedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.pdb
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\ref\JaggedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.pdb
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\padma\AlgandDataStructuresC#\JaggedArrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.AssemblyReference.cache

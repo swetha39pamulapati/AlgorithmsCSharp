@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\bin\Debug\net5.0\RadixSort.exe
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\bin\Debug\net5.0\RadixSort.deps.json
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\bin\Debug\net5.0\RadixSort.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\bin\Debug\net5.0\RadixSort.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\bin\Debug\net5.0\RadixSort.dll
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\bin\Debug\net5.0\ref\RadixSort.dll
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\bin\Debug\net5.0\RadixSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.dll
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\ref\RadixSort.dll
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\RadixSort\RadixSort\obj\Debug\net5.0\RadixSort.genruntimeconfig.cache

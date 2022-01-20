@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.exe
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.deps.json
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\ref\SinglyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\ref\SinglyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cycleDirectedGraphDFS/1.0.0": {
+        "runtime": {
+          "cycleDirectedGraphDFS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cycleDirectedGraphDFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

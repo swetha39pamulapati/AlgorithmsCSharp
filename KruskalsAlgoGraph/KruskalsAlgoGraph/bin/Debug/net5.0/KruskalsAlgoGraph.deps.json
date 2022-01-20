@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KruskalsAlgoGraph/1.0.0": {
+        "runtime": {
+          "KruskalsAlgoGraph.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KruskalsAlgoGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

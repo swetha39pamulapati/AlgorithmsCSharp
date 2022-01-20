@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Int2Roman/1.0.0": {
+        "runtime": {
+          "Int2Roman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Int2Roman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

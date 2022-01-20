@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\bin\Debug\net5.0\DijkstraAlgoGraph.exe
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\bin\Debug\net5.0\DijkstraAlgoGraph.deps.json
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\bin\Debug\net5.0\DijkstraAlgoGraph.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\bin\Debug\net5.0\DijkstraAlgoGraph.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\bin\Debug\net5.0\DijkstraAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\bin\Debug\net5.0\ref\DijkstraAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\bin\Debug\net5.0\DijkstraAlgoGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\ref\DijkstraAlgoGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\DijkstraAlgoGraph\DijkstraAlgoGraph\obj\Debug\net5.0\DijkstraAlgoGraph.genruntimeconfig.cache

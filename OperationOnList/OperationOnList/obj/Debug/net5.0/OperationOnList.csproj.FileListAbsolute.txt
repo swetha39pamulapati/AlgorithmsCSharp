@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\bin\Debug\net5.0\OperationOnList.exe
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\bin\Debug\net5.0\OperationOnList.deps.json
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\bin\Debug\net5.0\OperationOnList.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\bin\Debug\net5.0\OperationOnList.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\bin\Debug\net5.0\OperationOnList.dll
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\bin\Debug\net5.0\ref\OperationOnList.dll
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\bin\Debug\net5.0\OperationOnList.pdb
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.dll
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\ref\OperationOnList.dll
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.pdb
+C:\Users\padma\AlgandDataStructuresC#\OperationOnList\OperationOnList\obj\Debug\net5.0\OperationOnList.genruntimeconfig.cache

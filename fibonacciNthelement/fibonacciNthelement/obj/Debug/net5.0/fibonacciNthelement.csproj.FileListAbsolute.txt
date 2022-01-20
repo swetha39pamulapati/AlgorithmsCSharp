@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\bin\Debug\net5.0\fibonacciNthelement.exe
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\bin\Debug\net5.0\fibonacciNthelement.deps.json
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\bin\Debug\net5.0\fibonacciNthelement.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\bin\Debug\net5.0\fibonacciNthelement.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\bin\Debug\net5.0\fibonacciNthelement.dll
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\bin\Debug\net5.0\ref\fibonacciNthelement.dll
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\bin\Debug\net5.0\fibonacciNthelement.pdb
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.dll
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\ref\fibonacciNthelement.dll
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.pdb
+C:\Users\padma\AlgandDataStructuresC#\fibonacciNthelement\fibonacciNthelement\obj\Debug\net5.0\fibonacciNthelement.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\bin\Debug\net5.0\MedianSortedArrays.exe
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\bin\Debug\net5.0\MedianSortedArrays.deps.json
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\bin\Debug\net5.0\MedianSortedArrays.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\bin\Debug\net5.0\MedianSortedArrays.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\bin\Debug\net5.0\MedianSortedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\bin\Debug\net5.0\ref\MedianSortedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\bin\Debug\net5.0\MedianSortedArrays.pdb
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\ref\MedianSortedArrays.dll
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.pdb
+C:\Users\padma\AlgandDataStructuresC#\MedianSortedArrays\MedianSortedArrays\obj\Debug\net5.0\MedianSortedArrays.genruntimeconfig.cache

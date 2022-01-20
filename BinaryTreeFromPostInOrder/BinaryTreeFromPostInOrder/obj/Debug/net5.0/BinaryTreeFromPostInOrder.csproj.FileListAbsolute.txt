@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\bin\Debug\net5.0\BinaryTreeFromPostInOrder.exe
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\bin\Debug\net5.0\BinaryTreeFromPostInOrder.deps.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\bin\Debug\net5.0\BinaryTreeFromPostInOrder.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\bin\Debug\net5.0\BinaryTreeFromPostInOrder.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\bin\Debug\net5.0\BinaryTreeFromPostInOrder.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\bin\Debug\net5.0\ref\BinaryTreeFromPostInOrder.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\bin\Debug\net5.0\BinaryTreeFromPostInOrder.pdb
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\ref\BinaryTreeFromPostInOrder.dll
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.pdb
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.genruntimeconfig.cache
+C:\Users\padma\AlgandDataStructuresC#\BinaryTreeFromPostInOrder\BinaryTreeFromPostInOrder\obj\Debug\net5.0\BinaryTreeFromPostInOrder.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongPalindromicSubstring", "LongPalindromicSubstring\LongPalindromicSubstring.csproj", "{0AFCED1A-98DB-488F-A5C3-05CC0EABB189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFCED1A-98DB-488F-A5C3-05CC0EABB189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFCED1A-98DB-488F-A5C3-05CC0EABB189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFCED1A-98DB-488F-A5C3-05CC0EABB189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFCED1A-98DB-488F-A5C3-05CC0EABB189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C5A7B9-F553-4228-8E78-304946BC6CAF}
+	EndGlobalSection
+EndGlobal

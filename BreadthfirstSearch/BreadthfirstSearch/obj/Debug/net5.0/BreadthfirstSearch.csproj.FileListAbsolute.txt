@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\bin\Debug\net5.0\BreadthfirstSearch.exe
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\bin\Debug\net5.0\BreadthfirstSearch.deps.json
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\bin\Debug\net5.0\BreadthfirstSearch.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\bin\Debug\net5.0\BreadthfirstSearch.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\bin\Debug\net5.0\BreadthfirstSearch.dll
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\bin\Debug\net5.0\ref\BreadthfirstSearch.dll
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\bin\Debug\net5.0\BreadthfirstSearch.pdb
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.dll
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\ref\BreadthfirstSearch.dll
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.pdb
+C:\Users\padma\AlgandDataStructuresC#\BreadthfirstSearch\BreadthfirstSearch\obj\Debug\net5.0\BreadthfirstSearch.genruntimeconfig.cache

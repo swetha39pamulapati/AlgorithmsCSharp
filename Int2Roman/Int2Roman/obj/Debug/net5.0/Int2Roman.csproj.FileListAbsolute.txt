@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\bin\Debug\net5.0\Int2Roman.exe
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\bin\Debug\net5.0\Int2Roman.deps.json
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\bin\Debug\net5.0\Int2Roman.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\bin\Debug\net5.0\Int2Roman.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\bin\Debug\net5.0\Int2Roman.dll
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\bin\Debug\net5.0\ref\Int2Roman.dll
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\bin\Debug\net5.0\Int2Roman.pdb
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.dll
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\ref\Int2Roman.dll
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.pdb
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.genruntimeconfig.cache
+C:\Users\padma\AlgandDataStructuresC#\Int2Roman\Int2Roman\obj\Debug\net5.0\Int2Roman.csproj.AssemblyReference.cache

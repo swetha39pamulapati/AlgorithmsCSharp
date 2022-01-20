@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\bin\Debug\net5.0\bubblesortNComplexity.exe
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\bin\Debug\net5.0\bubblesortNComplexity.deps.json
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\bin\Debug\net5.0\bubblesortNComplexity.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\bin\Debug\net5.0\bubblesortNComplexity.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\bin\Debug\net5.0\bubblesortNComplexity.dll
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\bin\Debug\net5.0\ref\bubblesortNComplexity.dll
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\bin\Debug\net5.0\bubblesortNComplexity.pdb
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.dll
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\ref\bubblesortNComplexity.dll
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.pdb
+C:\Users\padma\AlgandDataStructuresC#\bubblesortNComplexity\bubblesortNComplexity\obj\Debug\net5.0\bubblesortNComplexity.genruntimeconfig.cache

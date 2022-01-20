@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\bin\Debug\net5.0\LongPalindromicSubstring.exe
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\bin\Debug\net5.0\LongPalindromicSubstring.deps.json
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\bin\Debug\net5.0\LongPalindromicSubstring.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\bin\Debug\net5.0\LongPalindromicSubstring.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\bin\Debug\net5.0\LongPalindromicSubstring.dll
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\bin\Debug\net5.0\ref\LongPalindromicSubstring.dll
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\bin\Debug\net5.0\LongPalindromicSubstring.pdb
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.dll
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\ref\LongPalindromicSubstring.dll
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.pdb
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.genruntimeconfig.cache
+C:\Users\padma\AlgandDataStructuresC#\LongPalindromicSubstring\LongPalindromicSubstring\obj\Debug\net5.0\LongPalindromicSubstring.csproj.AssemblyReference.cache

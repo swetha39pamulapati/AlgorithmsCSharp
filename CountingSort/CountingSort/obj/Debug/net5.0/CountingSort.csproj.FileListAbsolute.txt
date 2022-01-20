@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\bin\Debug\net5.0\CountingSort.exe
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\bin\Debug\net5.0\CountingSort.deps.json
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\bin\Debug\net5.0\CountingSort.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\bin\Debug\net5.0\CountingSort.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\bin\Debug\net5.0\CountingSort.dll
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\bin\Debug\net5.0\ref\CountingSort.dll
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\bin\Debug\net5.0\CountingSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.dll
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\ref\CountingSort.dll
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\CountingSort\CountingSort\obj\Debug\net5.0\CountingSort.genruntimeconfig.cache

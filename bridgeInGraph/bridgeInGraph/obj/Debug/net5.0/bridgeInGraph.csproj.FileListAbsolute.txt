@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\bin\Debug\net5.0\bridgeInGraph.exe
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\bin\Debug\net5.0\bridgeInGraph.deps.json
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\bin\Debug\net5.0\bridgeInGraph.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\bin\Debug\net5.0\bridgeInGraph.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\bin\Debug\net5.0\bridgeInGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\bin\Debug\net5.0\ref\bridgeInGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\bin\Debug\net5.0\bridgeInGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\ref\bridgeInGraph.dll
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.pdb
+C:\Users\padma\AlgandDataStructuresC#\bridgeInGraph\bridgeInGraph\obj\Debug\net5.0\bridgeInGraph.genruntimeconfig.cache

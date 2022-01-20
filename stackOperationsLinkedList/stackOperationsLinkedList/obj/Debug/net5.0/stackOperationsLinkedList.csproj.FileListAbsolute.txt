@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\bin\Debug\net5.0\stackOperationsLinkedList.exe
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\bin\Debug\net5.0\stackOperationsLinkedList.deps.json
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\bin\Debug\net5.0\stackOperationsLinkedList.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\bin\Debug\net5.0\stackOperationsLinkedList.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\bin\Debug\net5.0\stackOperationsLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\bin\Debug\net5.0\ref\stackOperationsLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\bin\Debug\net5.0\stackOperationsLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\ref\stackOperationsLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.genruntimeconfig.cache
+C:\Users\padma\AlgandDataStructuresC#\stackOperationsLinkedList\stackOperationsLinkedList\obj\Debug\net5.0\stackOperationsLinkedList.csproj.AssemblyReference.cache

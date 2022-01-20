@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\bin\Debug\net5.0\circularLinkedList.exe
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\bin\Debug\net5.0\circularLinkedList.deps.json
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\bin\Debug\net5.0\circularLinkedList.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\bin\Debug\net5.0\circularLinkedList.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\bin\Debug\net5.0\circularLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\bin\Debug\net5.0\ref\circularLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\bin\Debug\net5.0\circularLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\ref\circularLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\circularLinkedList\circularLinkedList\obj\Debug\net5.0\circularLinkedList.genruntimeconfig.cache

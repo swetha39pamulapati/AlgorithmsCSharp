@@ -1,0 +1,15 @@
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\net5.0\QueueUsingLinkedList.exe
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\net5.0\QueueUsingLinkedList.deps.json
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\net5.0\QueueUsingLinkedList.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\net5.0\QueueUsingLinkedList.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\net5.0\QueueUsingLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\net5.0\ref\QueueUsingLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\bin\Debug\net5.0\QueueUsingLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\QueueUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\QueueUsingLinkedList.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\QueueUsingLinkedList.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\QueueUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\QueueUsingLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\ref\QueueUsingLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\QueueUsingLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\QueueUsingLinkedList\QueueUsingLinkedList\obj\Debug\net5.0\QueueUsingLinkedList.genruntimeconfig.cache

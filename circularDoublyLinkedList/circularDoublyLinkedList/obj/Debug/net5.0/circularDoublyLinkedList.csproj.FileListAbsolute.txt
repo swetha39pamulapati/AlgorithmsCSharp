@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\bin\Debug\net5.0\circularDoublyLinkedList.exe
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\bin\Debug\net5.0\circularDoublyLinkedList.deps.json
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\bin\Debug\net5.0\circularDoublyLinkedList.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\bin\Debug\net5.0\circularDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\bin\Debug\net5.0\circularDoublyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\bin\Debug\net5.0\ref\circularDoublyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\bin\Debug\net5.0\circularDoublyLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\ref\circularDoublyLinkedList.dll
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.pdb
+C:\Users\padma\AlgandDataStructuresC#\circularDoublyLinkedList\circularDoublyLinkedList\obj\Debug\net5.0\circularDoublyLinkedList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\bin\Debug\net5.0\ShellSort.exe
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\bin\Debug\net5.0\ShellSort.deps.json
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\bin\Debug\net5.0\ShellSort.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\bin\Debug\net5.0\ShellSort.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\bin\Debug\net5.0\ShellSort.dll
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\bin\Debug\net5.0\ref\ShellSort.dll
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\bin\Debug\net5.0\ShellSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.dll
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ref\ShellSort.dll
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\ShellSort\ShellSort\obj\Debug\net5.0\ShellSort.genruntimeconfig.cache

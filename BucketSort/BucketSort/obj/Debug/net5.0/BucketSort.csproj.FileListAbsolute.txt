@@ -1,0 +1,15 @@
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\bin\Debug\net5.0\BucketSort.exe
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\bin\Debug\net5.0\BucketSort.deps.json
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\bin\Debug\net5.0\BucketSort.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\bin\Debug\net5.0\BucketSort.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\bin\Debug\net5.0\BucketSort.dll
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\bin\Debug\net5.0\ref\BucketSort.dll
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\bin\Debug\net5.0\BucketSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\BucketSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\BucketSort.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\BucketSort.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\BucketSort.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\BucketSort.dll
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\ref\BucketSort.dll
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\BucketSort.pdb
+C:\Users\padma\AlgandDataStructuresC#\BucketSort\BucketSort\obj\Debug\net5.0\BucketSort.genruntimeconfig.cache

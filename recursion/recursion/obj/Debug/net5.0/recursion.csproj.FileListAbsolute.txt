@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\bin\Debug\net5.0\recursion.exe
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\bin\Debug\net5.0\recursion.deps.json
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\bin\Debug\net5.0\recursion.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\bin\Debug\net5.0\recursion.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\bin\Debug\net5.0\recursion.dll
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\bin\Debug\net5.0\ref\recursion.dll
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\bin\Debug\net5.0\recursion.pdb
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.dll
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\ref\recursion.dll
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.pdb
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.genruntimeconfig.cache
+C:\Users\padma\AlgandDataStructuresC#\recursion\recursion\obj\Debug\net5.0\recursion.csproj.AssemblyReference.cache

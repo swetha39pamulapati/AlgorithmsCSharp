@@ -1,0 +1,16 @@
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\bin\Debug\net5.0\DetectCycleUsingUnionFindAlgo.exe
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\bin\Debug\net5.0\DetectCycleUsingUnionFindAlgo.deps.json
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\bin\Debug\net5.0\DetectCycleUsingUnionFindAlgo.runtimeconfig.json
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\bin\Debug\net5.0\DetectCycleUsingUnionFindAlgo.runtimeconfig.dev.json
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\bin\Debug\net5.0\DetectCycleUsingUnionFindAlgo.dll
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\bin\Debug\net5.0\ref\DetectCycleUsingUnionFindAlgo.dll
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\bin\Debug\net5.0\DetectCycleUsingUnionFindAlgo.pdb
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.csproj.AssemblyReference.cache
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.AssemblyInfoInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.AssemblyInfo.cs
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.csproj.CoreCompileInputs.cache
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.dll
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\ref\DetectCycleUsingUnionFindAlgo.dll
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.pdb
+C:\Users\padma\AlgandDataStructuresC#\DetectCycleUsingUnionFindAlgo\DetectCycleUsingUnionFindAlgo\obj\Debug\net5.0\DetectCycleUsingUnionFindAlgo.genruntimeconfig.cache
