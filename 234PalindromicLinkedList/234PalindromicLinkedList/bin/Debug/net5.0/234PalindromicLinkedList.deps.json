@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "234PalindromicLinkedList/1.0.0": {
+        "runtime": {
+          "234PalindromicLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "234PalindromicLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

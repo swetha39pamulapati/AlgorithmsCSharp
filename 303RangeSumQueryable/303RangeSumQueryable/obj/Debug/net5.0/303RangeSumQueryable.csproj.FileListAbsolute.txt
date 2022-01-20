@@ -1,0 +1,15 @@
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\303RangeSumQueryable.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\303RangeSumQueryable.AssemblyInfoInputs.cache
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\303RangeSumQueryable.AssemblyInfo.cs
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\303RangeSumQueryable.csproj.CoreCompileInputs.cache
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\bin\Debug\net5.0\303RangeSumQueryable.exe
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\bin\Debug\net5.0\303RangeSumQueryable.deps.json
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\bin\Debug\net5.0\303RangeSumQueryable.runtimeconfig.json
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\bin\Debug\net5.0\303RangeSumQueryable.runtimeconfig.dev.json
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\bin\Debug\net5.0\303RangeSumQueryable.dll
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\bin\Debug\net5.0\ref\303RangeSumQueryable.dll
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\bin\Debug\net5.0\303RangeSumQueryable.pdb
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\303RangeSumQueryable.dll
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\ref\303RangeSumQueryable.dll
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\303RangeSumQueryable.pdb
+D:\algndDS\303RangeSumQueryable\303RangeSumQueryable\obj\Debug\net5.0\303RangeSumQueryable.genruntimeconfig.cache

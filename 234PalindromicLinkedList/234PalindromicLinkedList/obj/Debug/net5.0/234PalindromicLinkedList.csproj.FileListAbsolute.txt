@@ -1,0 +1,15 @@
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\bin\Debug\net5.0\234PalindromicLinkedList.exe
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\bin\Debug\net5.0\234PalindromicLinkedList.deps.json
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\bin\Debug\net5.0\234PalindromicLinkedList.runtimeconfig.json
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\bin\Debug\net5.0\234PalindromicLinkedList.runtimeconfig.dev.json
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\bin\Debug\net5.0\234PalindromicLinkedList.dll
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\bin\Debug\net5.0\ref\234PalindromicLinkedList.dll
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\bin\Debug\net5.0\234PalindromicLinkedList.pdb
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\234PalindromicLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\234PalindromicLinkedList.AssemblyInfoInputs.cache
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\234PalindromicLinkedList.AssemblyInfo.cs
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\234PalindromicLinkedList.csproj.CoreCompileInputs.cache
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\234PalindromicLinkedList.dll
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\ref\234PalindromicLinkedList.dll
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\234PalindromicLinkedList.pdb
+D:\algndDS\234PalindromicLinkedList\234PalindromicLinkedList\obj\Debug\net5.0\234PalindromicLinkedList.genruntimeconfig.cache

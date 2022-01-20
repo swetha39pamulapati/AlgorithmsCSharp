@@ -1,0 +1,15 @@
+D:\algndDS\MissingNumberArray\MissingNumberArray\bin\Debug\net5.0\MissingNumberArray.exe
+D:\algndDS\MissingNumberArray\MissingNumberArray\bin\Debug\net5.0\MissingNumberArray.deps.json
+D:\algndDS\MissingNumberArray\MissingNumberArray\bin\Debug\net5.0\MissingNumberArray.runtimeconfig.json
+D:\algndDS\MissingNumberArray\MissingNumberArray\bin\Debug\net5.0\MissingNumberArray.runtimeconfig.dev.json
+D:\algndDS\MissingNumberArray\MissingNumberArray\bin\Debug\net5.0\MissingNumberArray.dll
+D:\algndDS\MissingNumberArray\MissingNumberArray\bin\Debug\net5.0\ref\MissingNumberArray.dll
+D:\algndDS\MissingNumberArray\MissingNumberArray\bin\Debug\net5.0\MissingNumberArray.pdb
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\MissingNumberArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\MissingNumberArray.AssemblyInfoInputs.cache
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\MissingNumberArray.AssemblyInfo.cs
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\MissingNumberArray.csproj.CoreCompileInputs.cache
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\MissingNumberArray.dll
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\ref\MissingNumberArray.dll
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\MissingNumberArray.pdb
+D:\algndDS\MissingNumberArray\MissingNumberArray\obj\Debug\net5.0\MissingNumberArray.genruntimeconfig.cache

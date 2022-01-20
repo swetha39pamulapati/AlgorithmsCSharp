@@ -1,0 +1,16 @@
+D:\algndDS\BuySellStocks\BuySellStocks\bin\Debug\net5.0\BuySellStocks.exe
+D:\algndDS\BuySellStocks\BuySellStocks\bin\Debug\net5.0\BuySellStocks.deps.json
+D:\algndDS\BuySellStocks\BuySellStocks\bin\Debug\net5.0\BuySellStocks.runtimeconfig.json
+D:\algndDS\BuySellStocks\BuySellStocks\bin\Debug\net5.0\BuySellStocks.runtimeconfig.dev.json
+D:\algndDS\BuySellStocks\BuySellStocks\bin\Debug\net5.0\BuySellStocks.dll
+D:\algndDS\BuySellStocks\BuySellStocks\bin\Debug\net5.0\ref\BuySellStocks.dll
+D:\algndDS\BuySellStocks\BuySellStocks\bin\Debug\net5.0\BuySellStocks.pdb
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.AssemblyInfoInputs.cache
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.AssemblyInfo.cs
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.csproj.CoreCompileInputs.cache
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.dll
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\ref\BuySellStocks.dll
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.pdb
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.genruntimeconfig.cache
+D:\algndDS\BuySellStocks\BuySellStocks\obj\Debug\net5.0\BuySellStocks.csproj.AssemblyReference.cache

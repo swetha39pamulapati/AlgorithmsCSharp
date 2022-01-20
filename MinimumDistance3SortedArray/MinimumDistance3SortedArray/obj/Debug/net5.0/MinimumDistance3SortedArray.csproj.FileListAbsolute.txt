@@ -1,0 +1,16 @@
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\bin\Debug\net5.0\MinimumDistance3SortedArray.exe
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\bin\Debug\net5.0\MinimumDistance3SortedArray.deps.json
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\bin\Debug\net5.0\MinimumDistance3SortedArray.runtimeconfig.json
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\bin\Debug\net5.0\MinimumDistance3SortedArray.runtimeconfig.dev.json
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\bin\Debug\net5.0\MinimumDistance3SortedArray.dll
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\bin\Debug\net5.0\ref\MinimumDistance3SortedArray.dll
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\bin\Debug\net5.0\MinimumDistance3SortedArray.pdb
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.csproj.AssemblyReference.cache
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.AssemblyInfoInputs.cache
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.AssemblyInfo.cs
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.csproj.CoreCompileInputs.cache
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.dll
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\ref\MinimumDistance3SortedArray.dll
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.pdb
+D:\algndDS\MinimumDistance3SortedArray\MinimumDistance3SortedArray\obj\Debug\net5.0\MinimumDistance3SortedArray.genruntimeconfig.cache

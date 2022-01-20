@@ -1,0 +1,15 @@
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\bin\Debug\net5.0\83RemoveDuplSortedList.exe
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\bin\Debug\net5.0\83RemoveDuplSortedList.deps.json
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\bin\Debug\net5.0\83RemoveDuplSortedList.runtimeconfig.json
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\bin\Debug\net5.0\83RemoveDuplSortedList.runtimeconfig.dev.json
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\bin\Debug\net5.0\83RemoveDuplSortedList.dll
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\bin\Debug\net5.0\ref\83RemoveDuplSortedList.dll
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\bin\Debug\net5.0\83RemoveDuplSortedList.pdb
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\83RemoveDuplSortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\83RemoveDuplSortedList.AssemblyInfoInputs.cache
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\83RemoveDuplSortedList.AssemblyInfo.cs
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\83RemoveDuplSortedList.csproj.CoreCompileInputs.cache
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\83RemoveDuplSortedList.dll
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\ref\83RemoveDuplSortedList.dll
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\83RemoveDuplSortedList.pdb
+D:\algndDS\83RemoveDuplSortedList\83RemoveDuplSortedList\obj\Debug\net5.0\83RemoveDuplSortedList.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\algndDS\ReverseBits\ReverseBits\bin\Debug\net5.0\ReverseBits.exe
+D:\algndDS\ReverseBits\ReverseBits\bin\Debug\net5.0\ReverseBits.deps.json
+D:\algndDS\ReverseBits\ReverseBits\bin\Debug\net5.0\ReverseBits.runtimeconfig.json
+D:\algndDS\ReverseBits\ReverseBits\bin\Debug\net5.0\ReverseBits.runtimeconfig.dev.json
+D:\algndDS\ReverseBits\ReverseBits\bin\Debug\net5.0\ReverseBits.dll
+D:\algndDS\ReverseBits\ReverseBits\bin\Debug\net5.0\ref\ReverseBits.dll
+D:\algndDS\ReverseBits\ReverseBits\bin\Debug\net5.0\ReverseBits.pdb
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.csproj.AssemblyReference.cache
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.AssemblyInfoInputs.cache
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.AssemblyInfo.cs
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.csproj.CoreCompileInputs.cache
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.dll
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ref\ReverseBits.dll
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.pdb
+D:\algndDS\ReverseBits\ReverseBits\obj\Debug\net5.0\ReverseBits.genruntimeconfig.cache

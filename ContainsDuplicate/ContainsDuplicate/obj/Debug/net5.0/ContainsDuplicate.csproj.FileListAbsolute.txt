@@ -1,0 +1,16 @@
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.exe
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.deps.json
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.runtimeconfig.json
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.runtimeconfig.dev.json
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.dll
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ref\ContainsDuplicate.dll
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\bin\Debug\net5.0\ContainsDuplicate.pdb
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.csproj.AssemblyReference.cache
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.AssemblyInfoInputs.cache
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.AssemblyInfo.cs
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.csproj.CoreCompileInputs.cache
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.dll
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ref\ContainsDuplicate.dll
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.pdb
+D:\algndDS\ContainsDuplicate\ContainsDuplicate\obj\Debug\net5.0\ContainsDuplicate.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\bin\Debug\net5.0\NearestRepeatedEntries.exe
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\bin\Debug\net5.0\NearestRepeatedEntries.deps.json
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\bin\Debug\net5.0\NearestRepeatedEntries.runtimeconfig.json
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\bin\Debug\net5.0\NearestRepeatedEntries.runtimeconfig.dev.json
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\bin\Debug\net5.0\NearestRepeatedEntries.dll
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\bin\Debug\net5.0\ref\NearestRepeatedEntries.dll
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\bin\Debug\net5.0\NearestRepeatedEntries.pdb
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.csproj.AssemblyReference.cache
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.AssemblyInfoInputs.cache
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.AssemblyInfo.cs
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.csproj.CoreCompileInputs.cache
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.dll
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\ref\NearestRepeatedEntries.dll
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.pdb
+D:\algndDS\NearestRepeatedEntries\NearestRepeatedEntries\obj\Debug\net5.0\NearestRepeatedEntries.genruntimeconfig.cache

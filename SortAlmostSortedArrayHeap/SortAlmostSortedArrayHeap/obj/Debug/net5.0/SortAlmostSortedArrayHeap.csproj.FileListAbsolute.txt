@@ -1,0 +1,16 @@
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\bin\Debug\net5.0\SortAlmostSortedArrayHeap.exe
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\bin\Debug\net5.0\SortAlmostSortedArrayHeap.deps.json
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\bin\Debug\net5.0\SortAlmostSortedArrayHeap.runtimeconfig.json
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\bin\Debug\net5.0\SortAlmostSortedArrayHeap.runtimeconfig.dev.json
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\bin\Debug\net5.0\SortAlmostSortedArrayHeap.dll
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\bin\Debug\net5.0\ref\SortAlmostSortedArrayHeap.dll
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\bin\Debug\net5.0\SortAlmostSortedArrayHeap.pdb
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.csproj.AssemblyReference.cache
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.AssemblyInfoInputs.cache
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.AssemblyInfo.cs
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.csproj.CoreCompileInputs.cache
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.dll
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\ref\SortAlmostSortedArrayHeap.dll
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.pdb
+D:\algndDS\SortAlmostSortedArrayHeap\SortAlmostSortedArrayHeap\obj\Debug\net5.0\SortAlmostSortedArrayHeap.genruntimeconfig.cache

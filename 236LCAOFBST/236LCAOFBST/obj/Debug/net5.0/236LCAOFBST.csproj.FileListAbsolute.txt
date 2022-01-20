@@ -1,0 +1,16 @@
+D:\algndDS\236LCAOFBST\236LCAOFBST\bin\Debug\net5.0\236LCAOFBST.exe
+D:\algndDS\236LCAOFBST\236LCAOFBST\bin\Debug\net5.0\236LCAOFBST.deps.json
+D:\algndDS\236LCAOFBST\236LCAOFBST\bin\Debug\net5.0\236LCAOFBST.runtimeconfig.json
+D:\algndDS\236LCAOFBST\236LCAOFBST\bin\Debug\net5.0\236LCAOFBST.runtimeconfig.dev.json
+D:\algndDS\236LCAOFBST\236LCAOFBST\bin\Debug\net5.0\236LCAOFBST.dll
+D:\algndDS\236LCAOFBST\236LCAOFBST\bin\Debug\net5.0\ref\236LCAOFBST.dll
+D:\algndDS\236LCAOFBST\236LCAOFBST\bin\Debug\net5.0\236LCAOFBST.pdb
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.csproj.AssemblyReference.cache
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.AssemblyInfoInputs.cache
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.AssemblyInfo.cs
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.csproj.CoreCompileInputs.cache
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.dll
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\ref\236LCAOFBST.dll
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.pdb
+D:\algndDS\236LCAOFBST\236LCAOFBST\obj\Debug\net5.0\236LCAOFBST.genruntimeconfig.cache

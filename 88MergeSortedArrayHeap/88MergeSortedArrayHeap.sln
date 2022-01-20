@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88MergeSortedArrayHeap", "88MergeSortedArrayHeap\88MergeSortedArrayHeap.csproj", "{65CD7B22-0651-4E4C-AAA3-C8EFC1F991D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CD7B22-0651-4E4C-AAA3-C8EFC1F991D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CD7B22-0651-4E4C-AAA3-C8EFC1F991D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CD7B22-0651-4E4C-AAA3-C8EFC1F991D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CD7B22-0651-4E4C-AAA3-C8EFC1F991D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568C4348-5624-413B-ACA1-F88460C8DDD7}
+	EndGlobalSection
+EndGlobal

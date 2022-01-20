@@ -1,0 +1,16 @@
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\bin\Debug\net5.0\stackUsingLinkedList.exe
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\bin\Debug\net5.0\stackUsingLinkedList.deps.json
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\bin\Debug\net5.0\stackUsingLinkedList.runtimeconfig.json
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\bin\Debug\net5.0\stackUsingLinkedList.runtimeconfig.dev.json
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\bin\Debug\net5.0\stackUsingLinkedList.dll
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\bin\Debug\net5.0\ref\stackUsingLinkedList.dll
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\bin\Debug\net5.0\stackUsingLinkedList.pdb
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.csproj.AssemblyReference.cache
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.AssemblyInfoInputs.cache
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.AssemblyInfo.cs
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.csproj.CoreCompileInputs.cache
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.dll
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\ref\stackUsingLinkedList.dll
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.pdb
+D:\algndDS\stackUsingLinkedList\stackUsingLinkedList\obj\Debug\net5.0\stackUsingLinkedList.genruntimeconfig.cache

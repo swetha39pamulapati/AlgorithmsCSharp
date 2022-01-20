@@ -1,0 +1,16 @@
+D:\algndDS\maxSubArray\maxSubArray\bin\Debug\net5.0\maxSubArray.exe
+D:\algndDS\maxSubArray\maxSubArray\bin\Debug\net5.0\maxSubArray.deps.json
+D:\algndDS\maxSubArray\maxSubArray\bin\Debug\net5.0\maxSubArray.runtimeconfig.json
+D:\algndDS\maxSubArray\maxSubArray\bin\Debug\net5.0\maxSubArray.runtimeconfig.dev.json
+D:\algndDS\maxSubArray\maxSubArray\bin\Debug\net5.0\maxSubArray.dll
+D:\algndDS\maxSubArray\maxSubArray\bin\Debug\net5.0\ref\maxSubArray.dll
+D:\algndDS\maxSubArray\maxSubArray\bin\Debug\net5.0\maxSubArray.pdb
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.csproj.AssemblyReference.cache
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.AssemblyInfoInputs.cache
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.AssemblyInfo.cs
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.csproj.CoreCompileInputs.cache
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.dll
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\ref\maxSubArray.dll
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.pdb
+D:\algndDS\maxSubArray\maxSubArray\obj\Debug\net5.0\maxSubArray.genruntimeconfig.cache

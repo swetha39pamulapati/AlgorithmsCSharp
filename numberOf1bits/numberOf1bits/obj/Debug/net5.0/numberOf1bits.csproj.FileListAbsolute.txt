@@ -1,0 +1,16 @@
+D:\algndDS\numberOf1bits\numberOf1bits\bin\Debug\net5.0\numberOf1bits.exe
+D:\algndDS\numberOf1bits\numberOf1bits\bin\Debug\net5.0\numberOf1bits.deps.json
+D:\algndDS\numberOf1bits\numberOf1bits\bin\Debug\net5.0\numberOf1bits.runtimeconfig.json
+D:\algndDS\numberOf1bits\numberOf1bits\bin\Debug\net5.0\numberOf1bits.runtimeconfig.dev.json
+D:\algndDS\numberOf1bits\numberOf1bits\bin\Debug\net5.0\numberOf1bits.dll
+D:\algndDS\numberOf1bits\numberOf1bits\bin\Debug\net5.0\ref\numberOf1bits.dll
+D:\algndDS\numberOf1bits\numberOf1bits\bin\Debug\net5.0\numberOf1bits.pdb
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.AssemblyInfoInputs.cache
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.AssemblyInfo.cs
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.csproj.CoreCompileInputs.cache
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.dll
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\ref\numberOf1bits.dll
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.pdb
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.genruntimeconfig.cache
+D:\algndDS\numberOf1bits\numberOf1bits\obj\Debug\net5.0\numberOf1bits.csproj.AssemblyReference.cache

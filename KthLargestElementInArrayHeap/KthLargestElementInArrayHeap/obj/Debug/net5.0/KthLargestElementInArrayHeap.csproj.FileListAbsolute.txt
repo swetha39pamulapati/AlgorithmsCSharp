@@ -1,0 +1,16 @@
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\bin\Debug\net5.0\KthLargestElementInArrayHeap.exe
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\bin\Debug\net5.0\KthLargestElementInArrayHeap.deps.json
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\bin\Debug\net5.0\KthLargestElementInArrayHeap.runtimeconfig.json
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\bin\Debug\net5.0\KthLargestElementInArrayHeap.runtimeconfig.dev.json
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\bin\Debug\net5.0\KthLargestElementInArrayHeap.dll
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\bin\Debug\net5.0\ref\KthLargestElementInArrayHeap.dll
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\bin\Debug\net5.0\KthLargestElementInArrayHeap.pdb
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.csproj.AssemblyReference.cache
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.AssemblyInfoInputs.cache
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.AssemblyInfo.cs
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.csproj.CoreCompileInputs.cache
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.dll
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\ref\KthLargestElementInArrayHeap.dll
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.pdb
+D:\algndDS\KthLargestElementInArrayHeap\KthLargestElementInArrayHeap\obj\Debug\net5.0\KthLargestElementInArrayHeap.genruntimeconfig.cache

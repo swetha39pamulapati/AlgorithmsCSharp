@@ -1,0 +1,15 @@
+D:\algndDS\230KthLargestBST\230KthLargestBST\bin\Debug\net5.0\230KthLargestBST.exe
+D:\algndDS\230KthLargestBST\230KthLargestBST\bin\Debug\net5.0\230KthLargestBST.deps.json
+D:\algndDS\230KthLargestBST\230KthLargestBST\bin\Debug\net5.0\230KthLargestBST.runtimeconfig.json
+D:\algndDS\230KthLargestBST\230KthLargestBST\bin\Debug\net5.0\230KthLargestBST.runtimeconfig.dev.json
+D:\algndDS\230KthLargestBST\230KthLargestBST\bin\Debug\net5.0\230KthLargestBST.dll
+D:\algndDS\230KthLargestBST\230KthLargestBST\bin\Debug\net5.0\ref\230KthLargestBST.dll
+D:\algndDS\230KthLargestBST\230KthLargestBST\bin\Debug\net5.0\230KthLargestBST.pdb
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\230KthLargestBST.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\230KthLargestBST.AssemblyInfoInputs.cache
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\230KthLargestBST.AssemblyInfo.cs
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\230KthLargestBST.csproj.CoreCompileInputs.cache
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\230KthLargestBST.dll
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\ref\230KthLargestBST.dll
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\230KthLargestBST.pdb
+D:\algndDS\230KthLargestBST\230KthLargestBST\obj\Debug\net5.0\230KthLargestBST.genruntimeconfig.cache

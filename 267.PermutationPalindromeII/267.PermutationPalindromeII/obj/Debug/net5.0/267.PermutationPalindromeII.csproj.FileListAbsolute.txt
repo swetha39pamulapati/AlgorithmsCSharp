@@ -1,0 +1,16 @@
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\bin\Debug\net5.0\267.PermutationPalindromeII.exe
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\bin\Debug\net5.0\267.PermutationPalindromeII.deps.json
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\bin\Debug\net5.0\267.PermutationPalindromeII.runtimeconfig.json
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\bin\Debug\net5.0\267.PermutationPalindromeII.runtimeconfig.dev.json
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\bin\Debug\net5.0\267.PermutationPalindromeII.dll
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\bin\Debug\net5.0\ref\267.PermutationPalindromeII.dll
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\bin\Debug\net5.0\267.PermutationPalindromeII.pdb
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.csproj.AssemblyReference.cache
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.AssemblyInfoInputs.cache
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.AssemblyInfo.cs
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.csproj.CoreCompileInputs.cache
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.dll
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\ref\267.PermutationPalindromeII.dll
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.pdb
+D:\algndDS\267.PermutationPalindromeII\267.PermutationPalindromeII\obj\Debug\net5.0\267.PermutationPalindromeII.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\bin\Debug\net5.0\295MedianSortedArrays.exe
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\bin\Debug\net5.0\295MedianSortedArrays.deps.json
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\bin\Debug\net5.0\295MedianSortedArrays.runtimeconfig.json
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\bin\Debug\net5.0\295MedianSortedArrays.runtimeconfig.dev.json
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\bin\Debug\net5.0\295MedianSortedArrays.dll
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\bin\Debug\net5.0\ref\295MedianSortedArrays.dll
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\bin\Debug\net5.0\295MedianSortedArrays.pdb
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.csproj.AssemblyReference.cache
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.AssemblyInfoInputs.cache
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.AssemblyInfo.cs
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.csproj.CoreCompileInputs.cache
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.dll
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\ref\295MedianSortedArrays.dll
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.pdb
+D:\algndDS\295MedianSortedArrays\295MedianSortedArrays\obj\Debug\net5.0\295MedianSortedArrays.genruntimeconfig.cache
