@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj": {}
+    "D:\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj": {
+    "D:\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj",
         "projectName": "BreadthfirstSearch",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\BreadthfirstSearch.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\BreadthfirstSearch\\BreadthfirstSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
