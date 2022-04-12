@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2M01WHYypOaQsjwHkTE1n1Ux1YaCtfWSbNAfo/MvW5mTiv+EQbR2By860vh23hSoHXcjMhM9ZDinaM32JInDmA==",
+  "dgSpecHash": "Ftd/jwLBmcDiSDnlefcQ/lTrgDb83wiQnONQiVpEG2wQVxUaERFohScyM3IcC9XJngH2Tn4COjud7J0ymHuxVw==",
   "success": true,
-  "projectFilePath": "D:\\algndDS\\EntityFrameworkDB\\EntityFrameworkDB\\EntityFrameworkDB.csproj",
+  "projectFilePath": "D:\\AlgandDataStructuresC#\\EntityFrameworkDB\\EntityFrameworkDB\\EntityFrameworkDB.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

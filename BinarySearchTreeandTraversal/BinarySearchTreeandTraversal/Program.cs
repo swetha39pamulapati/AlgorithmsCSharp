@@ -124,32 +124,6 @@ namespace BinarySearchTreeandTraversal
             }
             return false;
         }
-        //public TreeNode remove(TreeNode parent, int value)
-        //{
-        //    if (parent == null)
-        //        return parent;
-        //     if (value < parent.val)
-        //    {
-        //        parent.leftChild =  remove(parent.leftChild, value);
-        //    }
-        //    else if(value > parent.val)
-        //    {
-        //        parent.rightChild = remove(parent.rightChild, value);
-        //    }
-        //    else
-        //    {
-        //        if (parent.leftChild == null)
-        //            return parent.rightChild;
-        //        else if (parent.rightChild == null)
-        //            return parent.leftChild;
-
-        //            parent.val = findMax(parent.rightChild);
-
-        //        parent.rightChild = remove(parent.rightChild, value);
-        //       
-        //    }
-        // return parent;
-        //}
         public int findMax(TreeNode node)
         {
             while (node.leftChild != null)
@@ -186,18 +160,6 @@ namespace BinarySearchTreeandTraversal
             return parent;
         }
 
-        //private int MinValue(TreeNode TreeNode)
-        //{
-        //    int minv = TreeNode.val;
-
-        //    while (TreeNode.leftChild != null)
-        //    {
-        //        minv = TreeNode.leftChild.val;
-        //        TreeNode = TreeNode.leftChild;
-        //    }
-
-        //    return minv;
-        //}
 
         static void Main(string[] args)
         {
@@ -223,6 +185,8 @@ namespace BinarySearchTreeandTraversal
             binaryTree.TraversePostOrder(binaryTree.root);
             Console.WriteLine();
            int depthData =  binaryTree.GetTreeDepth(binaryTree.root);
+            
+            
             Console.WriteLine("The height of tree is : "+depthData);
             bool data = binaryTree.search(binaryTree.root, 20);
             Console.WriteLine(data== true?"The data is present " :"Not present");

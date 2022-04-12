@@ -20,7 +20,8 @@ namespace CountingSort
             //Create a freq array to store number of occurrences of 
             //each unique elements in the given array 
             int[] count = new int[max + 1];
-            for (int i = 0; i < max + 1; i++)
+            int[] brr = new int[n];
+            for (int i = 0; i <= max; i++)
             {
                 count[i] = 0;
             }
@@ -30,14 +31,17 @@ namespace CountingSort
             }
 
             //sort the given array using freq array
-            for (int i = 0, j = 0; i <= max; i++)
+            for(int i = 1;i<=max; i++)
             {
-                while (count[i] > 0)
-                {
-                    arr[j] = i;
-                    j++;
-                    count[i]--;
-                }
+                count[i] = count[i]+ count[i - 1];
+            }
+            for(int i = n-1; i>=0; i--)
+            {
+                brr[--count[arr[i]]] = arr[i];
+            }
+            for(int i = 0; i<n; i++)
+            {
+                arr[i] = brr[i];
             }
         }
 

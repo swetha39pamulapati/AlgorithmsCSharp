@@ -20,7 +20,7 @@ namespace MergeSort
             int i = lb;
             int j = mid + 1;
             int k = lb;
-            int[] brr = new int[20];
+            int[] brr = new int[arr.Length];
             while (i<=mid && j<= ub)
             {
                 

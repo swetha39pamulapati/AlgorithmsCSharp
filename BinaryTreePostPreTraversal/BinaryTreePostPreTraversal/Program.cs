@@ -27,10 +27,8 @@ namespace BinaryTreePostPreTraversal
                 if(post[i]== pre[preIndex])
                     break;
             }
-            //if (i <= end) { 
-                newNode.leftChild = traverse(pre, post, start, i, size);
+            newNode.leftChild = traverse(pre, post, start, i, size);
             newNode.rightChild = traverse(pre, post, i + 1, end - 1, size);
-            //}
             return newNode;
         }
         public void printPre(Node node)
@@ -50,6 +48,9 @@ namespace BinaryTreePostPreTraversal
             int size = preOrder.Length;
             Node root = p.traverse(preOrder, postOrder, 0, size - 1, size);
             p.printPre(root);
+        
+        
+        
         }
     }
 }

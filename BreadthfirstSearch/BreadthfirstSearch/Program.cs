@@ -35,8 +35,7 @@ class Graph
         // Mark all the vertices as not
         // visited(By default set as false)
         bool[] visited = new bool[vertex];
-        for (int i = 0; i < vertex; i++)
-            visited[i] = false;
+       
 
         // Create a queue for BFS
         //LinkedList<int> queue = new LinkedList<int>();

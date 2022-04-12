@@ -1,0 +1,16 @@
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\bin\Debug\net5.0\stackUsingQueue.exe
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\bin\Debug\net5.0\stackUsingQueue.deps.json
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\bin\Debug\net5.0\stackUsingQueue.runtimeconfig.json
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\bin\Debug\net5.0\stackUsingQueue.runtimeconfig.dev.json
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\bin\Debug\net5.0\stackUsingQueue.dll
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\bin\Debug\net5.0\ref\stackUsingQueue.dll
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\bin\Debug\net5.0\stackUsingQueue.pdb
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.csproj.AssemblyReference.cache
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.AssemblyInfoInputs.cache
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.AssemblyInfo.cs
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.csproj.CoreCompileInputs.cache
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.dll
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\ref\stackUsingQueue.dll
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.pdb
+D:\AlgandDataStructuresC#\stackUsingQueue\stackUsingQueue\obj\Debug\net5.0\stackUsingQueue.genruntimeconfig.cache

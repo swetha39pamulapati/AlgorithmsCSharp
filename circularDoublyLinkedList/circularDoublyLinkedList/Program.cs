@@ -29,7 +29,7 @@ namespace circularDoublyLinkedList
                 newNode.prev = head;
                 newNode.next = head;
             }
-            public void createStart(int data)
+            public void insertAtBegin(int data)
             {
                 Node newNode = new Node(data);
                 Node temp = head;
@@ -56,7 +56,7 @@ namespace circularDoublyLinkedList
                     
                 }
                 }
-            public void createAfter(int data, int insertAfter)
+            public void insertAfter(int data, int insertAfter)
             {
                 Node temp = head;
                 Node p = head;
@@ -193,7 +193,7 @@ namespace circularDoublyLinkedList
                     }
                 }
                     }
-                    public void createEnd(int data)
+                    public void insertAtEnd(int data)
             {
                 Node newNode = new Node(data);
                 Node temp = head;
@@ -235,9 +235,11 @@ namespace circularDoublyLinkedList
         {
             CircularDoublyLinkedList list = new CircularDoublyLinkedList();
             list.createEmptyList(9);
-            list.createEnd(10);
-            list.createStart(8);
-            list.createAfter(11,10);
+            
+            list.insertAtBegin(8);
+            list.insertAtEnd(10);
+            list.insertAtBegin(12);
+            list.insertAfter(11,10);
             list.display();
             list.countList();
             list.Search(10);

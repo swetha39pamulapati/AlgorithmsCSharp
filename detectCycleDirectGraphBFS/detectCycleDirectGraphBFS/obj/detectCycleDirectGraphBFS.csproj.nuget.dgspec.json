@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj": {}
+    "D:\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj": {
+    "D:\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj",
         "projectName": "detectCycleDirectGraphBFS",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\detectCycleDirectGraphBFS\\detectCycleDirectGraphBFS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

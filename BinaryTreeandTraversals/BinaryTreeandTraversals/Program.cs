@@ -59,10 +59,11 @@ namespace BinaryTreeandTraversals
 
             int[] arr = { 7,6,5,4,3,2,1};
             p.root = p.createBinaryTree(arr,0,p.root);
+            Console.WriteLine("\n Inorder: ");
             p.inorderTraversal(p.root);
             Console.WriteLine("\n Preorder: ");
             p.preOrderTraversal(p.root);
-            Console.WriteLine("\n Preorder: ");
+            Console.WriteLine("\n Postorder: ");
             p.postOrderTraversal(p.root);
         }
     }

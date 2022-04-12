@@ -52,7 +52,7 @@ class Graph
                     queue.Enqueue(val);
                     parent[val] = s;
                 }
-                else
+                else if (parent[s] != val)
                 {
                     return true;
                 }

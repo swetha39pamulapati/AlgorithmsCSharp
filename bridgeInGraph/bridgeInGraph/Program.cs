@@ -12,6 +12,7 @@ namespace bridgeInGraph
         int time = 0;
         static readonly int NIL = -1;
 
+
         // Constructor
         Graph(int v)
         {

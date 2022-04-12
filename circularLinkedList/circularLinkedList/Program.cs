@@ -47,9 +47,6 @@ namespace circularLinkedList
                 temp.next = newNode;
                 newNode.next = head;
                 head = newNode;
-                //newNode.next = head.next;
-                //head.next = newNode;
-
             }
             public void addToEnd(int data)
             {
@@ -110,8 +107,10 @@ namespace circularLinkedList
             }
             public void deleteFirst()
             {
-                if (head != null)
+                if (head == null)
                 {
+                    return;
+                }
                     if (head.next == head)
                     {
                         head = null;
@@ -128,7 +127,7 @@ namespace circularLinkedList
                         temp.next = head;
                         firstNode = null;
                     }
-                }
+               
             }
 
             public int CountList()
@@ -150,8 +149,8 @@ namespace circularLinkedList
             }
             public void deleteLast()
             {
-                if (head != null)
-                {
+                if (head == null)
+                    return;
                     if (head.next == head)
                     {
                         head = null;
@@ -168,7 +167,7 @@ namespace circularLinkedList
                         lastNode = null;
                         //temp.next = head;
                     }
-                }
+                
                     }
             public void InsertBefore(int data, int insertBefore)
             {
@@ -215,19 +214,19 @@ namespace circularLinkedList
             list.addToEnd(7);
             list.addToEnd(6);
             list.addToEnd(9);
-            list.addToEnd(10);
+            list.addToBegin(10);
             list.addToBegin(20);
-            //list.addAfter(35, 7);
+            list.addAfter(35, 7);
             //list.InsertBefore(45, 6);
             list.display();
-            Console.WriteLine("Node is deleted");
-            list.deleteFirst();
-            list.display();
-            list.deleteLast();
-            list.display();
-            int result = list.CountList();
-            Console.WriteLine("The count is" + result);
-            list.Search(6);
+            //Console.WriteLine("Node is deleted");
+            //list.deleteFirst();
+            //list.display();
+            //list.deleteLast();
+            //list.display();
+            //int result = list.CountList();
+            //Console.WriteLine("The count is" + result);
+            //list.Search(6);
             //list.DeleteAtEnd();
             //list.display();
             //list.createCircularLinkedList(7);

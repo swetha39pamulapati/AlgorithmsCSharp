@@ -29,8 +29,6 @@ class Graph
     {
 
         bool[] visited = new bool[vertex];
-        for (int i = 0; i < vertex; i++)
-            visited[i] = false;
         Queue<int> queue = new Queue<int>();
         //LinkedList<int> queue = new LinkedList<int>();
         visited[s] = true;

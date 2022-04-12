@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\circularLinkedList\\circularLinkedList\\circularLinkedList.csproj",
+      "projectUniqueName": "D:\\AlgandDataStructuresC#\\circularLinkedList\\circularLinkedList\\circularLinkedList.csproj",
       "projectName": "circularLinkedList",
-      "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\circularLinkedList\\circularLinkedList\\circularLinkedList.csproj",
+      "projectPath": "D:\\AlgandDataStructuresC#\\circularLinkedList\\circularLinkedList\\circularLinkedList.csproj",
       "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\circularLinkedList\\circularLinkedList\\obj\\",
+      "outputPath": "D:\\AlgandDataStructuresC#\\circularLinkedList\\circularLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -96,13 +96,12 @@ namespace KruskalsAlgoGraph
 
             // Allocate memory for creating V subsets
             subset[] subsets = new subset[V];
-            for (i = 0; i < V; ++i)
-                subsets[i] = new subset();
 
             // Create V subsets with single elements
             for (int v = 0; v < V; ++v)
             {
-                subsets[v].parent = v;
+                    subsets[v] = new subset();
+                    subsets[v].parent = v;
                 subsets[v].rank = 0;
             }
 

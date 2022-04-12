@@ -187,19 +187,28 @@ namespace linkedListOperations
                 //    prev = head;
                 //    head = next;
                 //}
-                Node tempNode = head;
-                Node prevNode = head;
-                Node currentNode = head.Next;
-                prevNode.Next = null;
-                while(currentNode != null)
+                //        Node tempNode = head;
+                //        Node prevNode = head;
+                //        Node currentNode = head.Next;
+                //        prevNode.Next = null;
+                //        while(currentNode != null)
+                //        {
+                //            tempNode = currentNode.Next;
+                //            currentNode.Next = prevNode;
+                //            prevNode = currentNode;
+                //            currentNode = tempNode;
+                //        }
+                //return prevNode;
+                Node prev = null;
+                while (head != null)
                 {
-                    tempNode = currentNode.Next;
-                    currentNode.Next = prevNode;
-                    prevNode = currentNode;
-                    currentNode = tempNode;
+                    Node nextNode = head.Next;
+                    head.Next = prev;
+                    prev = head;
+                    head = nextNode;
                 }
-        return prevNode;
-    }
+                return prev;
+            }
             //Search in a list
             public void Search(int data)
             {
@@ -288,14 +297,9 @@ namespace linkedListOperations
             head.Next.Next = new Node(6);
             head.Next.Next.Next = new Node(4);
             head.Next.Next.Next.Next = new Node(5);
-            Node currentNode = head;
-            Console.Write("Reverse list");
-            currentNode = list.ReverseList(head);
-            while(currentNode!= null)
-            {
-                Console.Write(currentNode.Value + " ");
-                currentNode = currentNode.Next;
-            }
+            Node  currentNode = null;
+
+
             //Console.WriteLine(currentNode);
             list.InsertEmptyList(9);
             list.InsertFront(7);
@@ -312,6 +316,13 @@ namespace linkedListOperations
             list.CountList();
             list.printList();
             list.Search(2);
+            Console.Write("Reverse list");
+            currentNode = list.ReverseList(head);
+            while (currentNode != null)
+            {
+                Console.Write(currentNode.Value + " ");
+                currentNode = currentNode.Next;
+            }
             list.refToLastNode();
             list.refToSecondLastNode();
             list.referToPredecessor(3);

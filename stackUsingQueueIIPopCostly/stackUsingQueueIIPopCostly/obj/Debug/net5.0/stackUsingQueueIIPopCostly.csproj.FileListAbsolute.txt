@@ -1,0 +1,16 @@
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\bin\Debug\net5.0\stackUsingQueueIIPopCostly.exe
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\bin\Debug\net5.0\stackUsingQueueIIPopCostly.deps.json
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\bin\Debug\net5.0\stackUsingQueueIIPopCostly.runtimeconfig.json
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\bin\Debug\net5.0\stackUsingQueueIIPopCostly.runtimeconfig.dev.json
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\bin\Debug\net5.0\stackUsingQueueIIPopCostly.dll
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\bin\Debug\net5.0\ref\stackUsingQueueIIPopCostly.dll
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\bin\Debug\net5.0\stackUsingQueueIIPopCostly.pdb
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.GeneratedMSBuildEditorConfig.editorconfig
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.AssemblyInfoInputs.cache
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.AssemblyInfo.cs
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.csproj.CoreCompileInputs.cache
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.dll
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\ref\stackUsingQueueIIPopCostly.dll
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.pdb
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.genruntimeconfig.cache
+D:\AlgandDataStructuresC#\stackUsingQueueIIPopCostly\stackUsingQueueIIPopCostly\obj\Debug\net5.0\stackUsingQueueIIPopCostly.csproj.AssemblyReference.cache

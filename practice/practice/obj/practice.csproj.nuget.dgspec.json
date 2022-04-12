@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\algndDS\\practice\\practice\\practice.csproj": {}
+    "D:\\AlgandDataStructuresC#\\practice\\practice\\practice.csproj": {}
   },
   "projects": {
-    "D:\\algndDS\\practice\\practice\\practice.csproj": {
+    "D:\\AlgandDataStructuresC#\\practice\\practice\\practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\algndDS\\practice\\practice\\practice.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\practice\\practice\\practice.csproj",
         "projectName": "practice",
-        "projectPath": "D:\\algndDS\\practice\\practice\\practice.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\practice\\practice\\practice.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "D:\\algndDS\\practice\\practice\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\practice\\practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

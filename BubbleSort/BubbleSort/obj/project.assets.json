@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+      "projectUniqueName": "D:\\AlgandDataStructuresC#\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
       "projectName": "BubbleSort",
-      "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
+      "projectPath": "D:\\AlgandDataStructuresC#\\BubbleSort\\BubbleSort\\BubbleSort.csproj",
       "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BubbleSort\\BubbleSort\\obj\\",
+      "outputPath": "D:\\AlgandDataStructuresC#\\BubbleSort\\BubbleSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

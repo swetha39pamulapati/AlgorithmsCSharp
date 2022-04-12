@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj": {}
+    "D:\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj": {
+    "D:\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
         "projectName": "BinarySearch",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\BinarySearch\\BinarySearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,64 @@ namespace QuickSort
 
         //    }
         //}
-        //starting as pivot
+        ////        //starting as pivot
+        //public static int partition(int[] arr, int lb, int ub)
+        //{
+        //    int pivot = lb;
+        //    int start = lb;
+        //    int end = ub;
+
+        //    while (start < end)
+        //    {
+        //        while (arr[start] <= arr[pivot] && start < end)
+        //        {
+
+        //            start++;
+        //        }
+
+        //        while (arr[end] > arr[pivot])
+        //        {
+        //            end--;
+        //        }
+        //        if (start < end)
+        //        {
+        //            //   swap(arr, arr[start], arr[end]);
+        //            int temp = arr[start];
+        //            arr[start] = arr[end];
+        //            arr[end] = temp;
+        //        }
+        //    }
+        //    //swap(arr, arr[lb], arr[end]);
+        //    int temp2 = arr[lb];
+        //    arr[lb] = arr[end];
+        //    arr[end] = temp2;
+
+        //    return end;
+        //}
+
+        //Random Number
+        //public static void quickSort(int[] arr, int lb, int ub)
+        //{
+        //    if (lb < ub)
+        //    {
+        //        int loc = partitionRandom(arr, lb, ub);
+        //        quickSort(arr, lb, loc - 1);
+        //        quickSort(arr, loc + 1, ub);
+
+        //    }
+        //}
+        //private static int partitionRandom(int[] arr, int low, int high)
+        //{
+        //    Random ran = new Random();
+        //    int random = ran.Next(low, high);
+        //    //swap with starting element and make it pivot
+        //    int temp = arr[random];
+        //    arr[random] = arr[low];
+        //    arr[low] = temp;
+        //    return partition(arr, low, high);
+
+        //}
+        ////starting as pivot
         //public static int partition(int[] arr, int lb, int ub)
         //{
         //    int pivot = arr[lb];
@@ -52,71 +109,89 @@ namespace QuickSort
         //MIDDLE 
         public static void quickSort(int[] arr, int lb, int ub)
         {
-            if (lb >= ub)
-                return;
-
-            int middle = lb + (ub - lb) / 2;
-            int pivot = arr[middle];
-            int start = lb, end = ub;
-            while (start <= end)
+            if (lb < ub)
             {
-                while (arr[start] < pivot)
+
+                int middle = lb + (ub - lb) / 2;
+                int pivot = middle;
+                int start = lb, end = ub;
+                while (start < end)
                 {
-                    start++;
+                    while (arr[start] < arr[pivot])
+                    {
+                        start++;
+                    }
+
+                    while (arr[end] > arr[pivot])
+                    {
+                        end--;
+                    }
+
+                    if (start <= end)
+                    {
+                        int temp = arr[start];
+                        arr[start] = arr[end];
+                        arr[end] = temp;
+                        start++;
+                        end--;
+                    }
                 }
 
-                while (arr[end] > pivot)
-                {
-                    end--;
-                }
+                // recursively sort two sub parts
+                if (lb < end)
+                    quickSort(arr, lb, end);
 
-                if (start <= end)
-                {
-                    int temp = arr[start];
-                    arr[start] = arr[end];
-                    arr[end] = temp;
-                    start++;
-                    end--;
-                }
+                if (ub > start)
+                    quickSort(arr, start, ub);
             }
-
-            // recursively sort two sub parts
-            if (lb < end)
-                quickSort(arr, lb, end);
-
-            if (ub > start)
-                quickSort(arr, start, ub);
         }
 
 
 
         //ENDING AS PIVOT
-        //public static int partition(int[] arr, int start, int end)
+        //public static void quickSort(int[] arr, int lb, int ub)
         //{
-        //    int pivot = arr[end];
-
-        //    for (int i = start; i < end; i++)
+        //    if (lb < ub)
         //    {
-        //        if (arr[i] < pivot)
-        //        {
-        //            int temp1 = arr[start];
-        //            arr[start] = arr[i];
-        //            arr[i] = temp1;
-        //            start++;
-        //        }
+        //        int loc = partition(arr, lb, ub);
+        //        quickSort(arr, lb, loc - 1);
+        //        quickSort(arr, loc + 1, ub);
+
         //    }
 
+        //}
+        //public static int partition(int[] arr, int lb, int ub)
+        //{
+        //    int start = lb;
+        //    int end = ub - 1;
+        //   int pivot = ub;
 
-        //    int temp = arr[start];
-        //    arr[start] = pivot;
-        //    arr[end] = temp;
+        //    while (start <= end)
+        //    {
+        //        while (arr[start] < arr[pivot])
+        //        {
+        //            start++;
+        //        }
+        //        while (end>= start && arr[end] >= arr[pivot])
+        //        {
+        //            end--;
+        //        }
+        //        if (start < end)
+        //        {
+        //            int temp = arr[start];
+        //            arr[start] = arr[end];
+        //            arr[end] = temp;
+        //        }
+        //    }
+        //    int temp1 = arr[start];
+        //    arr[start] = arr[pivot];
+        //    arr[pivot] = temp1;
 
         //    return start;
         //}
-
         static void Main(string[] args)
         {
-            int[] arr = { 26, 14, 12, 9, 23, 5, 2 };
+            int[] arr = { 7,6,10,5,7,2,1,15,4 };
             int n = arr.Length;
             quickSort(arr, 0, n - 1);
             Console.WriteLine("sorrtedArray using quick sort :");

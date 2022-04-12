@@ -25,6 +25,17 @@ namespace QueueUsingStack
                 push1(data);
                 count++;
             }
+            public void push1(int x)
+            {
+                if (top1 == Max - 1)
+                {
+                    Console.WriteLine("Stack is full");
+                }
+                else
+                {
+                    stack1[++top1] = x;
+                }
+            }
             public void dequeue()
             {
                 if(top1== -1 && top2 ==-1)
@@ -48,33 +59,18 @@ namespace QueueUsingStack
                     }
                 }
             }
-           public void display()
+            public int pop1()
             {
-                for (int i = 0; i <= top1; i++)
-                {
-                    Console.WriteLine( stack1[i] + " ");
-                }
-            }
-            public void peek()
-            {
-                if (top1 == -1 && top2 == -1)
+                if (top1 == -1)
                 {
                     Console.WriteLine("Stack is empty");
+                    return 0;
                 }
                 else
                 {
-                    for (int i = 0; i < count; i++)
-                    {
-                        int x = pop1();
-                        push2(x);
-                    }
-                    int y = top2;
-                    Console.WriteLine("The top element is :" + y);
-                    for (int i = 0; i < count; i++)
-                    {
-                        int z = pop2();
-                        push1(z);
-                    }
+                    int a = stack1[top1];
+                    top1--;
+                    return a;
                 }
             }
             public int pop2()
@@ -102,40 +98,46 @@ namespace QueueUsingStack
                     stack2[++top2] = x;
                 }
             }
-            public int pop1()
+            public void peek()
             {
-                if(top1== -1)
+                if (top1 == -1 && top2 == -1)
                 {
                     Console.WriteLine("Stack is empty");
-                    return 0;
                 }
                 else
                 {
-                    int a = stack1[top1];
-                    top1--;
-                    return a; 
+                    for (int i = 0; i < count; i++)
+                    {
+                        int x = pop1();
+                        push2(x);
+                    }
+                    int y = stack2[top2];
+                    Console.WriteLine("The top element is :" + y);
+                    for (int i = 0; i < count; i++)
+                    {
+                        int z = pop2();
+                        push1(z);
+                    }
                 }
             }
-           public void push1(int x)
+            
+            public void display()
             {
-                if(top1 == Max - 1)
+                for (int i = 0; i <= top1; i++)
                 {
-                    Console.WriteLine("Stack is full");
-                }
-                else
-                {
-                    stack1[++top1] = x;
+                    Console.WriteLine(stack1[i] + " ");
                 }
             }
+
         }
         static void Main(string[] args)
         {
             createStack stack = new createStack();
-            stack.enqueue(5);
-            stack.enqueue(4);
-            stack.enqueue(3);
-            stack.enqueue(2);
             stack.enqueue(1);
+            stack.enqueue(2);
+            stack.enqueue(3);
+            stack.enqueue(4);
+            stack.enqueue(5);
             stack.display();
             stack.dequeue();
             stack.display();

@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = EntityFrameworkDB
-build_property.ProjectDir = D:\algndDS\EntityFrameworkDB\EntityFrameworkDB\
+build_property.ProjectDir = D:\AlgandDataStructuresC#\EntityFrameworkDB\EntityFrameworkDB\

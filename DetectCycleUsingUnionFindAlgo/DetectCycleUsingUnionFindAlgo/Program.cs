@@ -64,7 +64,9 @@ namespace DetectCycleUsingUnionFindAlgo
         int V = graph.V;
         int E = graph.E;
  
-        subset[] subsets = new subset[V];
+        
+            
+            subset[] subsets = new subset[V];
         for (int v = 0; v < V; v++)
         {
             subsets[v] = new subset();

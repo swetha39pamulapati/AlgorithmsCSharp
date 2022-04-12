@@ -11,7 +11,7 @@ namespace ShellSort
             int temp, i, j;
 
 
-            while (gap > 0)
+            while (gap >= 1)
             {
                 for (i = gap; i < n; i++)
                 {
@@ -54,7 +54,7 @@ namespace ShellSort
         // }
         static void Main(string[] args)
         {
-            int[] arr = { 2,7,9,10,1};
+            int[] arr = { 23,29,15,19,31,7,9,5,2};
             shellSort(arr);
             Console.WriteLine("SortedArray using shell sort:");
             for (int i = 0; i < arr.Length; i++)

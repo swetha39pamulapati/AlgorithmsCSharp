@@ -57,8 +57,8 @@ namespace cycleDirectedGraphDFS
             Graph graph = new Graph(vertices);
             graph.addEgde(0, 1);
             graph.addEgde(1, 2);
+            graph.addEgde(2, 0);
             graph.addEgde(2, 3);
-            graph.addEgde(3, 1);
             bool result = graph.DFS();
             Console.WriteLine("is Cycle present: " + result);
 

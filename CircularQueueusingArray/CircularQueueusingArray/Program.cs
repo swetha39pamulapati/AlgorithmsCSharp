@@ -89,19 +89,21 @@ namespace CircularQueueusingArray
         static void Main(string[] args)
         {
             createQueueArray arr = new createQueueArray();
-            arr.enqueue(5);
-            arr.enqueue(4);
-            arr.enqueue(3);
-            arr.enqueue(2);
             arr.enqueue(1);
+            arr.enqueue(2);
+            arr.enqueue(3);
+            arr.enqueue(4);
+            arr.enqueue(5);
             arr.display();
             arr.dequeue();
+            arr.enqueue(9);
+            arr.display();
             arr.peek();
             arr.dequeue();
             arr.peek();
             //Console.WriteLine("data removed");
-            //arr.enqueue(9);
-            //arr.display();
+            arr.enqueue(19);
+            arr.display();
 
             //Console.WriteLine("Hello World!");
         }

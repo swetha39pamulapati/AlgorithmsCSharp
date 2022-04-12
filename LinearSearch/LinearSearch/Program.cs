@@ -14,6 +14,7 @@ namespace LinearSearch
                 {
                     found = 1;
                     Console.Write($"Data is found at index: {i}");
+                    break;
                 }
             }
             if(found == 0)
@@ -26,7 +27,7 @@ namespace LinearSearch
         {
             int[] arr = { 15, 5, 20, 1, 17, 10, 30 };
             int n = arr.Length;
-            linearSearch(arr, 39);
+            linearSearch(arr, 17);
         }
     }
 }

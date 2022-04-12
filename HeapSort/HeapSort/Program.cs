@@ -35,7 +35,7 @@ namespace HeapSort
                 largest = l;
 
             // If right child is larger than largest so far
-            if (r < n && arr[r] > arr[largest])
+            if (r <n && arr[r] > arr[largest])
                 largest = r;
 
             // If largest is not root
@@ -51,7 +51,7 @@ namespace HeapSort
         }
         static void Main(string[] args)
         {
-            int[] arr = { 15, 6, 5, 4, 7,20, 30};
+            int[] arr = { 15, 5,20, 1,17,10, 30};
             int n = arr.Length;
             heapSort(arr);
             Console.WriteLine("SortedArray using Heap sort :");

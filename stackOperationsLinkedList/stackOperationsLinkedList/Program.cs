@@ -23,11 +23,6 @@ namespace stackOperationsLinkedList
         {
             // create new node temp and allocate memory
             Node newNode = new Node(x);
-            if (newNode == null)
-            {
-                Console.Write("\nHeap Overflow");
-                return;
-            }
             newNode.next = top;
             top = newNode;
         }
@@ -45,6 +40,7 @@ namespace stackOperationsLinkedList
         }
         public void pop()
         {
+            Node temp = top;
             if (top == null)
             {
                 Console.Write("\nStack Underflow");
@@ -54,6 +50,7 @@ namespace stackOperationsLinkedList
             {
                 Console.WriteLine("The data deleted is" + top.data);
                 top = top.next;
+                temp = null;
             }
         }
         public void display()

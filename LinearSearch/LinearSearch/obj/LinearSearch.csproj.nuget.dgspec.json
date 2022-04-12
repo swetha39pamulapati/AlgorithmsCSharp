@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj": {}
+    "D:\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj": {
+    "D:\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj",
         "projectName": "LinearSearch",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\LinearSearch.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\LinearSearch\\LinearSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

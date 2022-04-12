@@ -6,7 +6,7 @@ namespace BucketSortAlgo
     class Program
     {
       
-            static void bucketSort(int[] arr, int n)
+            static int[] bucketSort(int[] arr, int n)
             {
             int max = 0;
             //find largest element in the Array
@@ -19,26 +19,30 @@ namespace BucketSortAlgo
             }
             for (int pos = 1; max / pos > 0; pos *= 10)
                     bucketSortAlgo(arr, n, pos);
+            return arr;
             }
         static void bucketSortAlgo(int[] arr, int n, int pos)
         {
             List<int>[] buckets = new List<int>[10];
-            List<int>[] sortedBuckets = new List<int>[n];
             int i;
             for (i = 0; i < 10; i++)
                 buckets[i] = new List<int>();
+           
             for (i = 0; i < n; i++)
             {
                int data = ((arr[i] / pos) % 10);
                 buckets[data].Add(arr[i]);
+                arr[i] = 0;
                 
             }
+            var arrayvar = 0;
             foreach(List<int> data in buckets)
             {
+               
                foreach(int x in data)
                 {
-                    //sortedBuckets.Add(x);
-                    Console.WriteLine(sortedBuckets);
+                    arr[arrayvar] = x;
+                    arrayvar++;
                 }
 
 
@@ -51,7 +55,9 @@ namespace BucketSortAlgo
         {
             int[] arr = { 015, 001, 321, 010, 802, 002, 123, 090, 109, 011 };
             int n = arr.Length;
-            bucketSort(arr, n);
+         int[] data =    bucketSort(arr, n);
+            for (int i = 0; i < data.Length; i++)
+                Console.WriteLine( data[i] + " ");
         }
     }
 }

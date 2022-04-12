@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj": {}
+    "D:\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj": {
+    "D:\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj",
         "projectName": "cycleDirectedGraphDFS",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\cycleDirectedGraphDFS\\cycleDirectedGraphDFS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

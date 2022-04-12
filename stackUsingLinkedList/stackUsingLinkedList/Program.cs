@@ -25,45 +25,46 @@ namespace stackUsingLinkedList
             public void push(int data)
             {
                 Node newNode = new Node(data);
-                if (top == null)
-                    newNode.next = null;
-                else
-                {
                     newNode.next = top;
-                    
-                }
                 top = newNode;
-                Console.Write("{0} is pushed to stack" + data);
             }
             public void pop()
             {
+                Node temp = top;
                 if (top == null)
                     Console.WriteLine("Deletion not possible");
                 else
                 {
                     Console.WriteLine("The deleted element is " + top.value);
                     top = top.next;
+                    temp = null;
                 }
             }
             public void peek()
             {
                 if (top == null)
-                    Console.WriteLine("Deletion not possible");
+                    Console.WriteLine("stack is empty");
                 else
                 {
-                    Console.WriteLine("The deleted element is " + top.value);
+                    Console.WriteLine("The top element is " + top.value);
                 }
             }
             public void display()
             {
-                if(top == null)
-                    Console.WriteLine("stack is empty");
+                if (top == null)
+                {
+                    Console.Write("\nStack Underflow");
+                    return;
+                }
                 else
                 {
-                    while(top!= null)
+                    Node temp = top;
+                    while (temp != null)
                     {
-                        Console.Write(top.value);
-                        top = top.next;
+
+                        Console.WriteLine(temp.value);
+
+                        temp = temp.next;
                     }
                 }
             }
@@ -77,8 +78,8 @@ namespace stackUsingLinkedList
             data.push(40);
             data.display();
             data.pop();
+            data.display();
             data.peek();
-            Console.WriteLine("Hello World!");
         }
     }
 }

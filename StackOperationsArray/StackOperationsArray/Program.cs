@@ -5,7 +5,7 @@ namespace StackOperationsArray
     class Program
     {
         public class CreateStack { 
-        private int MAX = 100;
+        private int MAX = 10;
         private int top;
         private int[] stack;
 

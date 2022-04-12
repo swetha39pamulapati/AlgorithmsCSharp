@@ -12,7 +12,7 @@ namespace RadixSort
         }
         public static void countSort(int[] arr, int n, int pos)
         {
-            int[] brr = new int[10];
+            int[] brr = new int[n];
             int[] count = new int[10];
             int i;
             for (i = 0; i < 10; i++)
@@ -39,7 +39,7 @@ namespace RadixSort
         }
         static void Main(string[] args)
         {
-            int[] arr = { 432,8,530,90,88,231,11,45,677,199};
+            int[] arr = { 432,8,530,90,88,231,11,45,677,199,11};
             int n = arr.Length;
             radixSort(arr, n);
             Console.WriteLine("SortedArray using Radix sort :");

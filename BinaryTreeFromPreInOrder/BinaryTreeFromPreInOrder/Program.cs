@@ -20,29 +20,24 @@ namespace BinaryTreeFromPreInOrder
             if (start > end )
                 return null;
            
+
             Node tnode = new Node(pre[preIndex++]);
             //If node has No children
             if (start == end)
                 return tnode;
-
-            //else find the index of tnode in inorder
-            int index = search(inOrdr, tnode.data, start, end);
-            tnode.leftChild = traverseList(inOrdr, pre, start, index - 1);
-            tnode.rightChild = traverseList(inOrdr, pre,index+1,end);
-            return tnode;
-        }
-        public int search(int[]arr, int data, int start, int end)
-        {
             int i;
-            
-            for(i =start;i<end; i++)
+
+            for (i = start; i < end; i++)
             {
-                if(arr[i] == data)
+                if (inOrdr[i] == tnode.data)
                 {
-                    return i;
+                    break;
                 }
             }
-            return i;
+            //else find the index of tnode in inorder
+            tnode.leftChild = traverseList(inOrdr, pre, start, i - 1);
+            tnode.rightChild = traverseList(inOrdr, pre,i+1,end);
+            return tnode;
         }
        public void  printInorder(Node node)
         {

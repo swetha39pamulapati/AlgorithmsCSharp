@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal.csproj",
+      "projectUniqueName": "D:\\AlgandDataStructuresC#\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal.csproj",
       "projectName": "BinarySearchTreeandTraversal",
-      "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal.csproj",
+      "projectPath": "D:\\AlgandDataStructuresC#\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal.csproj",
       "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal\\obj\\",
+      "outputPath": "D:\\AlgandDataStructuresC#\\BinarySearchTreeandTraversal\\BinarySearchTreeandTraversal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

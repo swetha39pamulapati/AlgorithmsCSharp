@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {}
+    "D:\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {
+    "D:\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
         "projectName": "InsertionSort",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\InsertionSort.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\InsertionSort\\InsertionSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

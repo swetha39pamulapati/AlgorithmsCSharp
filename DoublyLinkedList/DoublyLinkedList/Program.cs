@@ -84,13 +84,12 @@ namespace DoublyLinkedList
                             temp = temp.next;
                         }
                     }
-                    if (temp != null)
+                    if (temp != null && temp.next != null)
                     {
                         newNode.next = temp.next;
                         newNode.prev = temp;
                         temp.next = newNode;
-                        if (newNode.next != null)
-                            newNode.next.prev = newNode;
+                         newNode.next.prev = newNode;
                     }
                     else
                     {
@@ -101,54 +100,54 @@ namespace DoublyLinkedList
             //Delete first node of the list
             public void RemoveFirst()
             {
-                if (this.head != null)
+                if (head == null)
+                    return;
+                if(head.next == null)
+                    {
+                    head = null;
+                    return;
+
+                }
+                else
                 {
-                    Node temp = this.head;
-                    this.head = this.head.next;
-                    temp = null;
-                    if (this.head != null)
-                        this.head.prev = null;
+                    head = head.next;
+                    head.prev = null;
                 }
             }
             public void RemoveLast()
             {
-                if (this.head != null)
+                if (head == null)
+                    return;
+                if (head.next == null)
+                    head = null;
+                else
                 {
-                    if (this.head.next == null)
+                    Node p = head;
+                    while(p.next.next != null)
                     {
-                        this.head = null;
+                        p = p.next;
                     }
-                    else
-                    {
-                        Node temp = new Node();
-                        temp = this.head;
-                        while (temp.next.next != null)
-                            temp = temp.next;
-                        Node lastNode = temp.next;
-                        temp.next = null;
-                        lastNode = null;
-                    }
+                    Node nodeToDel = p.next;
+                    p.next = null;
+                    nodeToDel = null;
                 }
             }
             public void reverse()
             {
-                Node tempNode = head;
-                Node prevNode = head;
-                Node currNode = head.next;
-                prevNode.prev = null;
-                prevNode.next = null;
-                while(currNode!= null)
+                Node temp = null;
+                while (head != null)
                 {
-                    tempNode = currNode.next;
-                    currNode.next = prevNode;
-                    prevNode.prev = currNode;
-                    prevNode = currNode;
-                    currNode = tempNode;
+                    temp = head.prev;
+                    head.prev = head.next;
+                    head.next = temp;
+                    head = head.prev;
                 }
-                head = prevNode;
+                if (temp != null)
+                {
+                    head = temp.prev;
+                }
             }
-            //Delete an element at the given position
-            public void RemoveAtIndex(int position)
+            public void RemoveAtPos(int position)
             {
                 if (position < 1)
                 {
@@ -187,6 +186,42 @@ namespace DoublyLinkedList
                     }
                 }
             }
+            public void RemoveAtIndex (int index)
+            {
+                if(head == null)
+                    return;
+                Node p = head;
+                if(index == 0)
+                {
+                    head = p.next;
+                    head.prev = null;
+                }
+                else
+                {
+                    for(int i = 0; i<index-1; i++)
+                    {
+                        if (p != null)
+                            p = p.next;
+                    }
+                    if(p != null && p.next != null)
+                    {
+
+                        Node toDel = p.next;
+                        p.next = p.next.next;
+                        toDel = null;
+                        if(p.next != null)
+                        p.next.prev = p;
+                        
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("previous Node is null");
+                    }
+                }
+               
+
+            }
             public void PrintList()
             {
                 Node temp = new Node();
@@ -218,9 +253,15 @@ namespace DoublyLinkedList
             list.InsertFront(2);
             list.InsertFront(8);
             list.PrintList();
-            Console.WriteLine("The reversed list is :");
             list.reverse();
             list.PrintList();
+            //list.RemoveFirst();
+            //list.PrintList();
+            //list.RemoveAtIndex(2);
+            //list.PrintList();
+            //Console.WriteLine("The reversed list is :");
+            //list.reverse();
+            //list.PrintList();
             //list.InsertAfter(7);
             //list.InsertAfter(1);
             //list.InsertAfter(3);

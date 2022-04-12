@@ -8,6 +8,10 @@ namespace circularQueueLinkedList
         {
             public int value;
             public Node next;
+            public Node(int val)
+            {
+                value = val;next = null;
+            }
         }
         public class LinkedList
         {
@@ -20,9 +24,7 @@ namespace circularQueueLinkedList
        
         public void enqueue(int x)
         {
-            Node newNode = new Node();
-            newNode.value = x;
-            newNode.next = null;
+            Node newNode = new Node(x);
             if(rear == null)
                 {
                     front = rear = newNode;
@@ -90,6 +92,7 @@ namespace circularQueueLinkedList
             list.enqueue(12);
             list.display();
             list.dequeue();
+            list.display();
             list.peek();
         }
     }

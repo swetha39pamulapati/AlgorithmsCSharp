@@ -17,7 +17,7 @@ namespace AllPairSortestFloydWarshall
 					if (distance[i, j] == INF)
 						Console.Write("INF".PadLeft(5));
 					else
-						Console.Write(distance[i, j].ToString().PadLeft(5));
+						Console.Write("The distance from {i}, {j}"+ distance[i, j].ToString().PadLeft(5));
 				}
 
 				Console.WriteLine();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj": {}
+    "D:\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj": {
+    "D:\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj",
         "projectName": "CycleUndirecBFSGraph",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\CycleUndirecBFSGraph\\CycleUndirecBFSGraph\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

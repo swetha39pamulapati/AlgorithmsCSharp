@@ -86,9 +86,6 @@ namespace DLLOperations
                     newNode.next = p2;
 
                 }
-                
-               
-
             }
             public void DeleteFirst()
             {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj": {}
+    "D:\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj": {
+    "D:\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj",
         "projectName": "QueueUsingStack",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\QueueUsingStack.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\QueueUsingStack\\QueueUsingStack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

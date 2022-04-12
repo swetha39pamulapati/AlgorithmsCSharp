@@ -23,24 +23,12 @@ namespace BinaryTreeFromPostInOrder
                 return tNode;
             int i;
             for(i = start;i<end; i++) {
-                if (inOrdr[i] == post[postIdx])
+                if (inOrdr[i] == tNode.data)
                     break;
             }
-            tNode.rightChild = traverse(post, postIdx-1, inOrdr, i+1, end);
             tNode.leftChild = traverse(post, postIdx - 1 - (end - i), inOrdr, start, i - 1);
+            tNode.rightChild = traverse(post, postIdx-1, inOrdr, i+1, end);
             return tNode;
-        }
-        public int search(int[] arr, int start, int end,int value)
-        {
-            int i;
-            for(i = start; i < end; i++)
-            {
-                if(arr[i]== value)
-                {
-                    return i;
-                }
-            }
-            return i;
         }
         public void printPostOrder(Node node)
         {
@@ -57,7 +45,7 @@ namespace BinaryTreeFromPostInOrder
             int[] postOrder = { 9, 1, 2, 12, 7, 5, 3, 11, 4, 8 };
             int[] inOrder = { 9, 5, 1, 7, 2, 12, 8, 4, 3, 11 };
             int length = postOrder.Length;
-            Node root = p.traverse(postOrder, postOrder.Length-1, inOrder,0, length);
+            Node root = p.traverse(postOrder, postOrder.Length-1, inOrder,0, length-1);
             p.printPostOrder(root);
             //Console.WriteLine("Hello World!");
         }

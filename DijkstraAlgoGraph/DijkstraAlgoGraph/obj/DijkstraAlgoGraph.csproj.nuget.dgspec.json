@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj": {}
+    "D:\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj": {
+    "D:\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj",
         "projectName": "DijkstraAlgoGraph",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\DijkstraAlgoGraph.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\DijkstraAlgoGraph\\DijkstraAlgoGraph\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

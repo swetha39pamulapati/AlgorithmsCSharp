@@ -6,7 +6,7 @@ namespace QueueUsingArray
     {
         class CreateQueue
         {
-            private int MAX = 100;
+            private int MAX = 10;
             private int front;
             private int rear;
             private int[] queue;
@@ -23,7 +23,7 @@ namespace QueueUsingArray
             // the queue is empty or not  
             public void isEmpty()
             {
-                if (rear == front)
+                if (rear == -1 && front == -1)
                 {
                     Console.WriteLine("Queue is empty.");
                 }
@@ -36,7 +36,7 @@ namespace QueueUsingArray
             //create a method to return size of the queue 
             public int size()
             {
-                return rear - front;
+                return (rear - front)+1;
             }
             //create a method to add new element       
             public void EnQueue(int x)
@@ -44,6 +44,12 @@ namespace QueueUsingArray
                 if (rear == (MAX - 1))
                 {
                     Console.WriteLine("Queue size limit reached.");
+                }
+                else if(front==-1 && rear == -1)
+                {
+                    front = rear = 0;
+                    queue[rear] = x;
+                    Console.WriteLine(x + " is added into the queue.");
                 }
                 else
                 {
@@ -55,14 +61,20 @@ namespace QueueUsingArray
             //create a method to delete front element       
             public void DeQueue()
             {
-                if (rear == front)
+                if (rear == -1 && front == -1)
                 {
                     Console.WriteLine("Queue is empty.");
                 }
+                else if(rear == front)
+                {
+                    front = rear = -1;
+
+                }
                 else
                 {
-                    int x = queue[++front];
+                    int x = queue[front];
                     Console.WriteLine(x + " is deleted from the queue.");
+                    front++;
                 }
             }
 
@@ -87,13 +99,13 @@ namespace QueueUsingArray
                 }
                 else
                 {
-                    for(int i = 0; i<rear+1; i++)
+                    for(int i = front; i<=rear; i++)
                     {
                         Console.WriteLine(queue[i]);
                     }
 }
             }
-            //create a method to get front element    
+            //create a method to get front element -Peek   
             public int frontElement()
             {
                 if (rear == front)
@@ -103,7 +115,7 @@ namespace QueueUsingArray
                 }
                 else
                 {
-                    return queue[front + 1];
+                    return queue[front];
                 }
             }
         }
