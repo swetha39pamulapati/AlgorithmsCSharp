@@ -247,11 +247,11 @@ namespace DoublyLinkedList
         static void Main(string[] args)
         {
             DoubleLinkedList list = new DoubleLinkedList();
-            list.InsertFront(7);
-            list.InsertFront(1);
+            list.InsertFront(5);
+            list.InsertFront(4);
             list.InsertFront(3);
             list.InsertFront(2);
-            list.InsertFront(8);
+            list.InsertFront(1);
             list.PrintList();
             list.reverse();
             list.PrintList();
