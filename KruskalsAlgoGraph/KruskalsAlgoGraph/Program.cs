@@ -21,10 +21,10 @@ namespace KruskalsAlgoGraph
 
         // A class to represent
         // a subset for union-find
-        public class subset
-        {
-            public int parent, rank;
-        };
+        //public class subset
+        //{
+        //    public int parent, rank;
+        //};
 
         int V, E; // V-> no. of vertices & E->no.of edges
         Edge[] edge; // collection of all edges
@@ -41,38 +41,42 @@ namespace KruskalsAlgoGraph
 
         // A utility function to find set of an element i
         // (uses path compression technique)
-        int find(subset[] subsets, int i)
+        int find(int[] parent, int i)
         {
+            if (parent[i] == i)
+                return i;
+            return find(parent, parent[i]);
             // find root and make root as
             // parent of i (path compression)
-            if (subsets[i].parent != i)
-                subsets[i].parent
-                    = find(subsets, subsets[i].parent);
+            //if (subsets[i].parent != i)
+            //    subsets[i].parent
+            //        = find(subsets, subsets[i].parent);
 
-            return subsets[i].parent;
+            //return subsets[i].parent;
         }
 
         // A function that does union of
         // two sets of x and y (uses union by rank)
-        void Union(subset[] subsets, int x, int y)
+        void Union(int[] parent, int x, int y)
         {
-            int xroot = find(subsets, x);
-            int yroot = find(subsets, y);
+            parent[x] = y;
+            //int xroot = find(subsets, x);
+            //int yroot = find(subsets, y);
 
-            // Attach smaller rank tree under root of
-            // high rank tree (Union by Rank)
-            if (subsets[xroot].rank < subsets[yroot].rank)
-                subsets[xroot].parent = yroot;
-            else if (subsets[xroot].rank > subsets[yroot].rank)
-                subsets[yroot].parent = xroot;
+            //// Attach smaller rank tree under root of
+            //// high rank tree (Union by Rank)
+            //if (subsets[xroot].rank < subsets[yroot].rank)
+            //    subsets[xroot].parent = yroot;
+            //else if (subsets[xroot].rank > subsets[yroot].rank)
+            //    subsets[yroot].parent = xroot;
 
-            // If ranks are same, then make one as root
-            // and increment its rank by one
-            else
-            {
-                subsets[yroot].parent = xroot;
-                subsets[xroot].rank++;
-            }
+            //// If ranks are same, then make one as root
+            //// and increment its rank by one
+            //else
+            //{
+            //    subsets[yroot].parent = xroot;
+            //    subsets[xroot].rank++;
+            //}
         }
 
         // The main function to construct MST
@@ -95,14 +99,13 @@ namespace KruskalsAlgoGraph
             Array.Sort(edge);
 
             // Allocate memory for creating V subsets
-            subset[] subsets = new subset[V];
+            int[] parent = new int[V];
 
             // Create V subsets with single elements
             for (int v = 0; v < V; ++v)
             {
-                    subsets[v] = new subset();
-                    subsets[v].parent = v;
-                subsets[v].rank = 0;
+                    parent[v] = v;
+                    
             }
 
             i = 0; // Index used to pick next edge
@@ -115,8 +118,8 @@ namespace KruskalsAlgoGraph
                 Edge next_edge = new Edge();
                 next_edge = edge[i++];
 
-                int x = find(subsets, next_edge.src);
-                int y = find(subsets, next_edge.dest);
+                int x = find(parent, next_edge.src);
+                int y = find(parent, next_edge.dest);
 
                 // If including this edge does't cause cycle,
                 // include it in result and increment the index
@@ -124,7 +127,7 @@ namespace KruskalsAlgoGraph
                 if (x != y)
                 {
                     result[e++] = next_edge;
-                    Union(subsets, x, y);
+                    Union(parent, x, y);
                 }
                 // Else discard the next_edge
             }

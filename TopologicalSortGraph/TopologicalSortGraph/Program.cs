@@ -3,8 +3,6 @@ using System.Collections.Generic;
 
 namespace TopologicalSortGraph
 {
-
-    //WithLinkedList
     public class Graph
     {
         private int vertex;
@@ -21,34 +19,58 @@ namespace TopologicalSortGraph
         {
             adj[n].AddLast(e);
         }
-        public void topologicalUtil(int i, bool[] visited, LinkedList<int> list)
-        {
-            visited[i] = true;
-            foreach (var val in adj[i])
-            {
-                if (!visited[val])
-                {
-                    topologicalUtil(val, visited, list);
-                }
-            }
-            list.AddFirst(i);
-        }
         public void topologicalSort()
         {
-            LinkedList<int> list = new LinkedList<int>();
-            bool[] visited = new bool[vertex];
+            int[] in_degree = new int[vertex];
+
+            for (int u = 0; u < vertex; u++)
+            {
+                foreach (int itr in adj[u]) 
+                    in_degree[itr]++;
+            }
+
+            Queue<int> q = new Queue<int>();
             for (int i = 0; i < vertex; i++)
+                if (in_degree[i] == 0)
+                    q.Enqueue(i);
+
+            int cnt = 0;
+
+           
+            List<int> list = new List<int>();
+
+           
+            while (q.Count > 0)
             {
-                if (!visited[i])
+
+                int u = q.Dequeue();
+                list.Add(u);
+
+               
+                foreach (int itr in adj[u])
                 {
-                    topologicalUtil(i, visited, list);
+
+                    if (--in_degree[itr] == 0)
+                        q.Enqueue(itr);
                 }
+
+                cnt++;
             }
-            foreach (var vertices in list)
+
+           
+            if (cnt != vertex)
             {
-                Console.Write(vertices + " ");
+                Console.WriteLine(
+                  "There exists a cycle in the graph");
+                return;
             }
+
+            // Print topological order
+            for (int i = 0; i < list.Count; i++)
+                Console.Write(list[i] + " ");
+            Console.WriteLine();
         }
+ 
         public static void Main()
         {
             Graph g = new Graph(6);

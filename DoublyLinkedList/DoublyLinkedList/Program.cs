@@ -132,20 +132,18 @@ namespace DoublyLinkedList
                     nodeToDel = null;
                 }
             }
-            public void reverse()
+            public Node reverse()
             {
-                Node temp = null;
+                Node prev = null;
                 while (head != null)
                 {
-                    temp = head.prev;
-                    head.prev = head.next;
-                    head.next = temp;
-                    head = head.prev;
+                    Node nextNode = head.next;
+                    head.next = prev;
+                    head.prev = nextNode;
+                    prev = head;
+                    head = nextNode;
                 }
-                if (temp != null)
-                {
-                    head = temp.prev;
-                }
+                return prev;
             }
             public void RemoveAtPos(int position)
             {
@@ -253,7 +251,12 @@ namespace DoublyLinkedList
             list.InsertFront(2);
             list.InsertFront(1);
             list.PrintList();
-            list.reverse();
+            Node currentNode = list.reverse();
+            while (currentNode != null)
+            {
+                Console.Write(currentNode.value + " ");
+                currentNode = currentNode.next;
+            }
             list.PrintList();
             //list.RemoveFirst();
             //list.PrintList();

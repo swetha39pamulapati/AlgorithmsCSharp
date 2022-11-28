@@ -15,16 +15,16 @@ namespace BinaryTreeandTraversals
     class Program
     {
         public Node root;
-        public Node createBinaryTree(int[] arr,int i,Node root)
+        public Node createBinaryTree(int[] arr,int i,Node rax)
         {
             if (i < arr.Length)
             {
                 Node temp = new Node(arr[i]);
-                root = temp;
-                root.leftChild = createBinaryTree(arr, 2 * i + 1, root.leftChild);
-                root.rightChild = createBinaryTree(arr, 2 * i + 2, root.rightChild);
+                rax = temp;
+                rax.leftChild = createBinaryTree(arr, 2 * i + 1, rax.leftChild);
+                rax.rightChild = createBinaryTree(arr, 2 * i + 2, rax.rightChild);
             }
-            return root;
+            return rax;
         }
         public void inorderTraversal(Node root)
         {

@@ -32,7 +32,7 @@ namespace bubblesortNComplexity
         }
         static void Main(string[] args)
         {
-            int[] arr = { 16, 14, 5, 6, 8 };
+            int[] arr = { 5,10,6,7,9,8};
             bubbleSortNcomplexity(arr);
             Console.WriteLine("SortedArray using bubble sort:");
             for (int i = 0; i < arr.Length; i++)

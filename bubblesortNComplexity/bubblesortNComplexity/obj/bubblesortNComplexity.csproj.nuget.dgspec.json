@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj": {}
+    "D:\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\padma\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj": {
+    "D:\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\padma\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj",
+        "projectUniqueName": "D:\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj",
         "projectName": "bubblesortNComplexity",
-        "projectPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj",
+        "projectPath": "D:\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\bubblesortNComplexity.csproj",
         "packagesPath": "C:\\Users\\padma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\padma\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\obj\\",
+        "outputPath": "D:\\AlgandDataStructuresC#\\bubblesortNComplexity\\bubblesortNComplexity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

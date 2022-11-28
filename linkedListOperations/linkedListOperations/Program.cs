@@ -146,7 +146,7 @@ namespace linkedListOperations
                 }
 
                 Node p = head;
-                while (p.Next.Next != null)
+                while (p.Next != null)
                     p = p.Next;
                 p.Next = null;
             }
